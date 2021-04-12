@@ -1,0 +1,41 @@
+# Select the information of all characters from Harry Potter and the Philosopher's Stone
+SELECT ?character ?characterLabel ?genderLabel ?blood_statusLabel ?speciesLabel ?DOBLabel ?POBLabel ?eye_colorLabel ?hair_colorLabel ?educationLabel ?employerLabel ?membershipLabel
+WHERE
+{
+  BIND(wd:Q43361 AS ?book).
+  ?book wdt:P674 ?character .
+  
+  OPTIONAL {
+    ?character wdt:P21 ?gender .
+  }
+  OPTIONAL {
+    ?character wdt:P31 ?blood_status .
+    FILTER ( EXISTS {?blood_status wdt:P1269 wd:Q2316469 })
+  }
+  OPTIONAL {
+    ?character wdt:P31 ?species .
+    FILTER ( EXISTS {?species wdt:P279 wd:Q15298221})
+  }
+  OPTIONAL {
+    ?character wdt:P569 ?DOB . 
+  }
+  OPTIONAL {
+    ?character wdt:P19 ?POB .
+  }
+  OPTIONAL {
+    ?character wdt:P1340 ?eye_color .
+  }
+  OPTIONAL {
+    ?character wdt:P1884 ?hair_color .
+  }
+  OPTIONAL {
+    ?character wdt:P69 ?education .
+  }
+  OPTIONAL {
+    ?character wdt:P108 ?employer .
+  }
+  OPTIONAL {
+    ?character wdt:P463 ?membership .
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
+}

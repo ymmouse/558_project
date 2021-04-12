@@ -1,0 +1,38 @@
+# Select the relations of all characters from Harry Potter and the Prisoner of Azkaban
+SELECT ?character ?characterLabel ?fatherLabel ?motherLabel ?spouseLabel ?childLabel ?siblingLabel ?relativeLabel ?in_relationshipLabel ?enemyLabel ?kill_byLabel ?ownerLabel
+WHERE
+{
+  BIND(wd:Q47598 AS ?book).
+  ?book wdt:P674 ?character .
+  OPTIONAL {
+    ?character wdt:P22 ?father .
+  }
+  OPTIONAL {
+    ?character wdt:P25 ?mother .
+  }
+  OPTIONAL {
+    ?character wdt:P26 ?spouse .
+  }
+  OPTIONAL {
+    ?character wdt:P40 ?child .
+  }
+  OPTIONAL {
+    ?character wdt:P3373 ?sibling .
+  }
+  OPTIONAL {
+    ?character wdt:P1038 ?relative .
+  }
+  OPTIONAL {
+    ?character wdt:P451 ?in_relationship .
+  }  
+  OPTIONAL {
+    ?character wdt:P7047 ?enemy .
+  }
+  OPTIONAL {
+    ?character wdt:P157 ?kill_by .
+  }
+  OPTIONAL {
+    ?character (p:P127/ps:P127) ?owner .
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
+}
