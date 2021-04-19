@@ -1,1 +1,1868 @@
-{"Harry_Potter_and_the_Chamber_of_Secrets": {"Dobby": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "Harry Potter"}, "Harry Potter": {"father": "James Potter", "mother": "Lily Potter", "spouse": ["Ginny Weasley"], "child": ["Lily Luna Potter", "Albus Severus Potter", "James Sirius Potter"], "sibling": ["DNE"], "relative": ["Vernon Dursley", "Dudley Dursley", "Ignotus Peverell", "Petunia Dursley"], "in_relationship": ["DNE"], "enemy": ["Draco Malfoy", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}, "Ron Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["Hermione Granger"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["George Weasley", "Fred Weasley", "Charlie Weasley", "Percy Weasley", "Bill Weasley", "Ginny Weasley"], "relative": ["DNE"], "in_relationship": ["Lavender Brown", "Hermione Granger"], "enemy": ["Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Hermione Granger": {"father": "Mr. Granger", "mother": "Mrs. Granger", "spouse": ["Ron Weasley"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Antonin Dolohov", "Bellatrix Lestrange", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}, "Lord Voldemort": {"father": "Tom Riddle", "mother": "Merope Gaunt", "spouse": ["DNE"], "child": ["Delphi Diggory"], "sibling": ["DNE"], "relative": ["Salazar Slytherin"], "in_relationship": ["Bellatrix Lestrange"], "enemy": ["Harry Potter", "Albus Dumbledore", "Order of the Phoenix"], "kill_by": "DNE", "owner": "DNE"}, "Rubeus Hagrid": {"father": "DNE", "mother": "Fridwulfa", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["Grawp"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Draco Malfoy": {"father": "Lucius Malfoy", "mother": "Narcissa Malfoy", "spouse": ["Astoria Greengrass"], "child": ["Scorpius Malfoy"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["Pansy Parkinson"], "enemy": ["Harry Potter"], "kill_by": "DNE", "owner": "DNE"}, "Ginny Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["Harry Potter"], "child": ["James Sirius Potter", "Lily Luna Potter", "Albus Severus Potter"], "sibling": ["George Weasley", "Fred Weasley", "Charlie Weasley", "Percy Weasley", "Bill Weasley", "Ron Weasley"], "relative": ["DNE"], "in_relationship": ["Michael Corner", "Dean Thomas"], "enemy": ["Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Albus Dumbledore": {"father": "Percival Dumbledore", "mother": "Kendra Dumbledore", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["Credence Barebone", "Ariana Dumbledore", "Aberforth Dumbledore"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Gellert Grindelwald", "Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Gilderoy Lockhart": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}}, "Harry_Potter_and_the_Deathly_Hallows": {"Ron Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["Hermione Granger"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["George Weasley", "Fred Weasley", "Charlie Weasley", "Percy Weasley", "Bill Weasley", "Ginny Weasley"], "relative": ["DNE"], "in_relationship": ["Lavender Brown", "Hermione Granger"], "enemy": ["Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Hermione Granger": {"father": "Mr. Granger", "mother": "Mrs. Granger", "spouse": ["Ron Weasley"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Antonin Dolohov", "Bellatrix Lestrange", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}, "Harry Potter": {"father": "James Potter", "mother": "Lily Potter", "spouse": ["Ginny Weasley"], "child": ["James Sirius Potter", "Lily Luna Potter", "Albus Severus Potter"], "sibling": ["DNE"], "relative": ["Vernon Dursley", "Dudley Dursley", "Ignotus Peverell", "Petunia Dursley"], "in_relationship": ["DNE"], "enemy": ["Draco Malfoy", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}}, "Harry_Potter_and_the_Goblet_of_Fire": {"Ron Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["Hermione Granger"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["George Weasley", "Fred Weasley", "Charlie Weasley", "Percy Weasley", "Bill Weasley", "Ginny Weasley"], "relative": ["DNE"], "in_relationship": ["Lavender Brown", "Hermione Granger"], "enemy": ["Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Hermione Granger": {"father": "Mr. Granger", "mother": "Mrs. Granger", "spouse": ["Ron Weasley"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Antonin Dolohov", "Bellatrix Lestrange", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}, "Lord Voldemort": {"father": "Tom Riddle", "mother": "Merope Gaunt", "spouse": ["DNE"], "child": ["Delphi Diggory"], "sibling": ["DNE"], "relative": ["Salazar Slytherin"], "in_relationship": ["Bellatrix Lestrange"], "enemy": ["Harry Potter", "Albus Dumbledore", "Order of the Phoenix"], "kill_by": "DNE", "owner": "DNE"}, "Albus Dumbledore": {"father": "Percival Dumbledore", "mother": "Kendra Dumbledore", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["Credence Barebone", "Ariana Dumbledore", "Aberforth Dumbledore"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Gellert Grindelwald", "Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Fleur Delacour": {"father": "DNE", "mother": "DNE", "spouse": ["Bill Weasley"], "child": ["Louis Weasley", "Dominique Weasley", "Victoire Weasley"], "sibling": ["Gabrielle Delacour"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Cedric Diggory": {"father": "Amos Diggory", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Peter Pettigrew": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Viktor Krum": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Barty Crouch": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["Barty Crouch Jr."], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Barty Crouch Jr.": {"father": "Barty Crouch", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Harry Potter": {"father": "James Potter", "mother": "Lily Potter", "spouse": ["Ginny Weasley"], "child": ["James Sirius Potter", "Lily Luna Potter", "Albus Severus Potter"], "sibling": ["DNE"], "relative": ["Vernon Dursley", "Dudley Dursley", "Ignotus Peverell", "Petunia Dursley"], "in_relationship": ["DNE"], "enemy": ["Draco Malfoy", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}}, "Harry_Potter_and_the_Half-Blood_Prince": {"Ron Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["Hermione Granger"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["George Weasley", "Fred Weasley", "Charlie Weasley", "Percy Weasley", "Bill Weasley", "Ginny Weasley"], "relative": ["DNE"], "in_relationship": ["Lavender Brown", "Hermione Granger"], "enemy": ["Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Hermione Granger": {"father": "Mr. Granger", "mother": "Mrs. Granger", "spouse": ["Ron Weasley"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Antonin Dolohov", "Bellatrix Lestrange", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}, "Severus Snape": {"father": "Tobias Snape", "mother": "Eileen Prince", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["James Potter"], "kill_by": "DNE", "owner": "DNE"}, "Draco Malfoy": {"father": "Lucius Malfoy", "mother": "Narcissa Malfoy", "spouse": ["Astoria Greengrass"], "child": ["Scorpius Malfoy"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["Pansy Parkinson"], "enemy": ["Harry Potter"], "kill_by": "DNE", "owner": "DNE"}, "Albus Dumbledore": {"father": "Percival Dumbledore", "mother": "Kendra Dumbledore", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["Credence Barebone", "Ariana Dumbledore", "Aberforth Dumbledore"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Gellert Grindelwald", "Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Harry Potter": {"father": "James Potter", "mother": "Lily Potter", "spouse": ["Ginny Weasley"], "child": ["James Sirius Potter", "Lily Luna Potter", "Albus Severus Potter"], "sibling": ["DNE"], "relative": ["Vernon Dursley", "Dudley Dursley", "Ignotus Peverell", "Petunia Dursley"], "in_relationship": ["DNE"], "enemy": ["Draco Malfoy", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}}, "Harry_Potter_and_the_Order_of_the_Phoenix": {"Harry Potter": {"father": "James Potter", "mother": "Lily Potter", "spouse": ["Ginny Weasley"], "child": ["James Sirius Potter", "Lily Luna Potter", "Albus Severus Potter"], "sibling": ["DNE"], "relative": ["Vernon Dursley", "Dudley Dursley", "Ignotus Peverell", "Petunia Dursley"], "in_relationship": ["DNE"], "enemy": ["Draco Malfoy", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}}, "Harry_Potter_and_the_Philosopher's_Stone": {"Ron Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["Hermione Granger"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["George Weasley", "Fred Weasley", "Charlie Weasley", "Percy Weasley", "Bill Weasley", "Ginny Weasley"], "relative": ["DNE"], "in_relationship": ["Lavender Brown", "Hermione Granger"], "enemy": ["Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Hermione Granger": {"father": "Mr. Granger", "mother": "Mrs. Granger", "spouse": ["Ron Weasley"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Antonin Dolohov", "Bellatrix Lestrange", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}, "Lord Voldemort": {"father": "Tom Riddle", "mother": "Merope Gaunt", "spouse": ["DNE"], "child": ["Delphi Diggory"], "sibling": ["DNE"], "relative": ["Salazar Slytherin"], "in_relationship": ["Bellatrix Lestrange"], "enemy": ["Harry Potter", "Albus Dumbledore", "Order of the Phoenix"], "kill_by": "DNE", "owner": "DNE"}, "Severus Snape": {"father": "Tobias Snape", "mother": "Eileen Prince", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["James Potter"], "kill_by": "DNE", "owner": "DNE"}, "Rubeus Hagrid": {"father": "DNE", "mother": "Fridwulfa", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["Grawp"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Draco Malfoy": {"father": "Lucius Malfoy", "mother": "Narcissa Malfoy", "spouse": ["Astoria Greengrass"], "child": ["Scorpius Malfoy"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["Pansy Parkinson"], "enemy": ["Harry Potter"], "kill_by": "DNE", "owner": "DNE"}, "Ginny Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["Harry Potter"], "child": ["James Sirius Potter", "Lily Luna Potter", "Albus Severus Potter"], "sibling": ["George Weasley", "Fred Weasley", "Charlie Weasley", "Percy Weasley", "Bill Weasley", "Ron Weasley"], "relative": ["DNE"], "in_relationship": ["Michael Corner", "Dean Thomas"], "enemy": ["Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Neville Longbottom": {"father": "Frank Longbottom", "mother": "Alice Longbottom", "spouse": ["Hannah Abbott"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Bellatrix Lestrange"], "kill_by": "DNE", "owner": "DNE"}, "Minerva McGonagall": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Albus Dumbledore": {"father": "Percival Dumbledore", "mother": "Kendra Dumbledore", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["Credence Barebone", "Ariana Dumbledore", "Aberforth Dumbledore"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Gellert Grindelwald", "Lord Voldemort"], "kill_by": "DNE", "owner": "DNE"}, "Sirius Black": {"father": "Orion Black", "mother": "Walburga Black", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["Regulus Black"], "relative": ["Alphard Black", "Andromeda Tonks", "Narcissa Malfoy", "Bellatrix Lestrange"], "in_relationship": ["DNE"], "enemy": ["Death Eater"], "kill_by": "DNE", "owner": "DNE"}, "Arabella Figg": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Lucius Malfoy": {"father": "Abraxas Malfoy", "mother": "DNE", "spouse": ["Narcissa Malfoy"], "child": ["Draco Malfoy"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Garrick Ollivander": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Narcissa Malfoy": {"father": "Cygnus Black III", "mother": "Druella Rosier", "spouse": ["Lucius Malfoy"], "child": ["Draco Malfoy"], "sibling": ["Andromeda Tonks", "Bellatrix Lestrange"], "relative": ["Sirius Black"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Cornelius Fudge": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Petunia Dursley": {"father": "Mr. Evans", "mother": "Mrs. Evans", "spouse": ["Vernon Dursley"], "child": ["Dudley Dursley"], "sibling": ["Lily Potter"], "relative": ["Harry Potter"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Bill Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["Fleur Delacour"], "child": ["Louis Weasley", "Dominique Weasley", "Victoire Weasley"], "sibling": ["Ginny Weasley", "Ron Weasley", "George Weasley", "Fred Weasley", "Charlie Weasley", "Percy Weasley"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Hedwig": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "Harry Potter"}, "George Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["Angelina Johnson"], "child": ["Roxanne Weasley", "Fred Weasley II"], "sibling": ["Percy Weasley", "Bill Weasley", "Ginny Weasley", "Ron Weasley", "Fred Weasley", "Charlie Weasley"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Gregory Goyle": {"father": "Goyle senior", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Vincent Crabbe": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Harry Potter": {"father": "James Potter", "mother": "Lily Potter", "spouse": ["Ginny Weasley"], "child": ["James Sirius Potter", "Lily Luna Potter", "Albus Severus Potter"], "sibling": ["DNE"], "relative": ["Vernon Dursley", "Dudley Dursley", "Ignotus Peverell", "Petunia Dursley"], "in_relationship": ["DNE"], "enemy": ["Draco Malfoy", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}, "Molly Weasley": {"father": "DNE", "mother": "DNE", "spouse": ["Arthur Weasley"], "child": ["George Weasley", "Fred Weasley", "Charlie Weasley", "Percy Weasley", "Bill Weasley", "Ginny Weasley", "Ron Weasley"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Poppy Pomfrey": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Percy Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["George Weasley", "Fred Weasley", "Charlie Weasley", "Bill Weasley", "Ginny Weasley", "Ron Weasley"], "relative": ["DNE"], "in_relationship": ["Penelope Clearwater"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Angelina Johnson": {"father": "DNE", "mother": "DNE", "spouse": ["George Weasley"], "child": ["Roxanne Weasley", "Fred Weasley II"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Charlie Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["George Weasley", "Fred Weasley", "Percy Weasley", "Bill Weasley", "Ginny Weasley", "Ron Weasley"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Nearly Headless Nick": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Griphook": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Rolanda Hooch": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Dudley Dursley": {"father": "Vernon Dursley", "mother": "Petunia Dursley", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["DNE"], "relative": ["James Sirius Potter", "Lily Luna Potter", "Albus Severus Potter", "Harry Potter", "Marge Dursley", "Lily Potter", "James Potter", "Ginny Weasley"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Arthur Weasley": {"father": "Septimus Weasley", "mother": "Cedrella Black", "spouse": ["Molly Weasley"], "child": ["Ginny Weasley", "Ron Weasley", "George Weasley", "Fred Weasley", "Charlie Weasley", "Percy Weasley", "Bill Weasley"], "sibling": ["Bilius Weasley"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Augusta Longbottom": {"father": "DNE", "mother": "DNE", "spouse": ["DNE"], "child": ["Frank Longbottom"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Vernon Dursley": {"father": "DNE", "mother": "DNE", "spouse": ["Petunia Dursley"], "child": ["Dudley Dursley"], "sibling": ["Marge Dursley"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}, "Fred Weasley": {"father": "Arthur Weasley", "mother": "Molly Weasley", "spouse": ["DNE"], "child": ["DNE"], "sibling": ["George Weasley", "Charlie Weasley", "Percy Weasley", "Bill Weasley", "Ginny Weasley", "Ron Weasley"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["DNE"], "kill_by": "DNE", "owner": "DNE"}}, "Harry_Potter_and_the_Prisoner_of_Azkaban": {"Hermione Granger": {"father": "Mr. Granger", "mother": "Mrs. Granger", "spouse": ["Ron Weasley"], "child": ["Rose Granger-Weasley", "Hugo Granger-Weasley"], "sibling": ["DNE"], "relative": ["DNE"], "in_relationship": ["DNE"], "enemy": ["Antonin Dolohov", "Bellatrix Lestrange", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}, "Harry Potter": {"father": "James Potter", "mother": "Lily Potter", "spouse": ["Ginny Weasley"], "child": ["James Sirius Potter", "Lily Luna Potter", "Albus Severus Potter"], "sibling": ["DNE"], "relative": ["Vernon Dursley", "Dudley Dursley", "Ignotus Peverell", "Petunia Dursley"], "in_relationship": ["DNE"], "enemy": ["Draco Malfoy", "Lord Voldemort", "death"], "kill_by": "DNE", "owner": "DNE"}}}
+{
+    "Harry_Potter_and_the_Chamber_of_Secrets": {
+        "Dobby": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "Harry Potter"
+        },
+        "Harry Potter": {
+            "father": "James Potter",
+            "mother": "Lily Potter",
+            "spouse": [
+                "Ginny Weasley"
+            ],
+            "child": [
+                "Lily Luna Potter",
+                "Albus Severus Potter",
+                "James Sirius Potter"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "Vernon Dursley",
+                "Dudley Dursley",
+                "Ignotus Peverell",
+                "Petunia Dursley"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Draco Malfoy",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Ron Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "Hermione Granger"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ginny Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Lavender Brown",
+                "Hermione Granger"
+            ],
+            "enemy": [
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Hermione Granger": {
+            "father": "Mr. Granger",
+            "mother": "Mrs. Granger",
+            "spouse": [
+                "Ron Weasley"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Antonin Dolohov",
+                "Bellatrix Lestrange",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Lord Voldemort": {
+            "father": "Tom Riddle",
+            "mother": "Merope Gaunt",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "Delphi Diggory"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "Salazar Slytherin"
+            ],
+            "in_relationship": [
+                "Bellatrix Lestrange"
+            ],
+            "enemy": [
+                "Harry Potter",
+                "Albus Dumbledore",
+                "Order of the Phoenix"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Rubeus Hagrid": {
+            "father": "DNE",
+            "mother": "Fridwulfa",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "Grawp"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Draco Malfoy": {
+            "father": "Lucius Malfoy",
+            "mother": "Narcissa Malfoy",
+            "spouse": [
+                "Astoria Greengrass"
+            ],
+            "child": [
+                "Scorpius Malfoy"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Pansy Parkinson"
+            ],
+            "enemy": [
+                "Harry Potter"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Ginny Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "Harry Potter"
+            ],
+            "child": [
+                "James Sirius Potter",
+                "Lily Luna Potter",
+                "Albus Severus Potter"
+            ],
+            "sibling": [
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ron Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Michael Corner",
+                "Dean Thomas"
+            ],
+            "enemy": [
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Albus Dumbledore": {
+            "father": "Percival Dumbledore",
+            "mother": "Kendra Dumbledore",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "Credence Barebone",
+                "Ariana Dumbledore",
+                "Aberforth Dumbledore"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Gellert Grindelwald",
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Gilderoy Lockhart": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        }
+    },
+    "Harry_Potter_and_the_Deathly_Hallows": {
+        "Ron Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "Hermione Granger"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ginny Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Lavender Brown",
+                "Hermione Granger"
+            ],
+            "enemy": [
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Hermione Granger": {
+            "father": "Mr. Granger",
+            "mother": "Mrs. Granger",
+            "spouse": [
+                "Ron Weasley"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Antonin Dolohov",
+                "Bellatrix Lestrange",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Harry Potter": {
+            "father": "James Potter",
+            "mother": "Lily Potter",
+            "spouse": [
+                "Ginny Weasley"
+            ],
+            "child": [
+                "James Sirius Potter",
+                "Lily Luna Potter",
+                "Albus Severus Potter"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "Vernon Dursley",
+                "Dudley Dursley",
+                "Ignotus Peverell",
+                "Petunia Dursley"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Draco Malfoy",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        }
+    },
+    "Harry_Potter_and_the_Goblet_of_Fire": {
+        "Ron Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "Hermione Granger"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ginny Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Lavender Brown",
+                "Hermione Granger"
+            ],
+            "enemy": [
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Hermione Granger": {
+            "father": "Mr. Granger",
+            "mother": "Mrs. Granger",
+            "spouse": [
+                "Ron Weasley"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Antonin Dolohov",
+                "Bellatrix Lestrange",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Lord Voldemort": {
+            "father": "Tom Riddle",
+            "mother": "Merope Gaunt",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "Delphi Diggory"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "Salazar Slytherin"
+            ],
+            "in_relationship": [
+                "Bellatrix Lestrange"
+            ],
+            "enemy": [
+                "Harry Potter",
+                "Albus Dumbledore",
+                "Order of the Phoenix"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Albus Dumbledore": {
+            "father": "Percival Dumbledore",
+            "mother": "Kendra Dumbledore",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "Credence Barebone",
+                "Ariana Dumbledore",
+                "Aberforth Dumbledore"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Gellert Grindelwald",
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Fleur Delacour": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "Bill Weasley"
+            ],
+            "child": [
+                "Louis Weasley",
+                "Dominique Weasley",
+                "Victoire Weasley"
+            ],
+            "sibling": [
+                "Gabrielle Delacour"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Cedric Diggory": {
+            "father": "Amos Diggory",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Peter Pettigrew": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Viktor Krum": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Barty Crouch": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "Barty Crouch Jr."
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Barty Crouch Jr.": {
+            "father": "Barty Crouch",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Harry Potter": {
+            "father": "James Potter",
+            "mother": "Lily Potter",
+            "spouse": [
+                "Ginny Weasley"
+            ],
+            "child": [
+                "James Sirius Potter",
+                "Lily Luna Potter",
+                "Albus Severus Potter"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "Vernon Dursley",
+                "Dudley Dursley",
+                "Ignotus Peverell",
+                "Petunia Dursley"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Draco Malfoy",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        }
+    },
+    "Harry_Potter_and_the_Half-Blood_Prince": {
+        "Ron Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "Hermione Granger"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ginny Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Lavender Brown",
+                "Hermione Granger"
+            ],
+            "enemy": [
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Hermione Granger": {
+            "father": "Mr. Granger",
+            "mother": "Mrs. Granger",
+            "spouse": [
+                "Ron Weasley"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Antonin Dolohov",
+                "Bellatrix Lestrange",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Severus Snape": {
+            "father": "Tobias Snape",
+            "mother": "Eileen Prince",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "James Potter"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Draco Malfoy": {
+            "father": "Lucius Malfoy",
+            "mother": "Narcissa Malfoy",
+            "spouse": [
+                "Astoria Greengrass"
+            ],
+            "child": [
+                "Scorpius Malfoy"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Pansy Parkinson"
+            ],
+            "enemy": [
+                "Harry Potter"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Albus Dumbledore": {
+            "father": "Percival Dumbledore",
+            "mother": "Kendra Dumbledore",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "Credence Barebone",
+                "Ariana Dumbledore",
+                "Aberforth Dumbledore"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Gellert Grindelwald",
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Harry Potter": {
+            "father": "James Potter",
+            "mother": "Lily Potter",
+            "spouse": [
+                "Ginny Weasley"
+            ],
+            "child": [
+                "James Sirius Potter",
+                "Lily Luna Potter",
+                "Albus Severus Potter"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "Vernon Dursley",
+                "Dudley Dursley",
+                "Ignotus Peverell",
+                "Petunia Dursley"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Draco Malfoy",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        }
+    },
+    "Harry_Potter_and_the_Order_of_the_Phoenix": {
+        "Harry Potter": {
+            "father": "James Potter",
+            "mother": "Lily Potter",
+            "spouse": [
+                "Ginny Weasley"
+            ],
+            "child": [
+                "James Sirius Potter",
+                "Lily Luna Potter",
+                "Albus Severus Potter"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "Vernon Dursley",
+                "Dudley Dursley",
+                "Ignotus Peverell",
+                "Petunia Dursley"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Draco Malfoy",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        }
+    },
+    "Harry_Potter_and_the_Philosopher's_Stone": {
+        "Ron Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "Hermione Granger"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ginny Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Lavender Brown",
+                "Hermione Granger"
+            ],
+            "enemy": [
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Hermione Granger": {
+            "father": "Mr. Granger",
+            "mother": "Mrs. Granger",
+            "spouse": [
+                "Ron Weasley"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Antonin Dolohov",
+                "Bellatrix Lestrange",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Lord Voldemort": {
+            "father": "Tom Riddle",
+            "mother": "Merope Gaunt",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "Delphi Diggory"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "Salazar Slytherin"
+            ],
+            "in_relationship": [
+                "Bellatrix Lestrange"
+            ],
+            "enemy": [
+                "Harry Potter",
+                "Albus Dumbledore",
+                "Order of the Phoenix"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Severus Snape": {
+            "father": "Tobias Snape",
+            "mother": "Eileen Prince",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "James Potter"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Rubeus Hagrid": {
+            "father": "DNE",
+            "mother": "Fridwulfa",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "Grawp"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Draco Malfoy": {
+            "father": "Lucius Malfoy",
+            "mother": "Narcissa Malfoy",
+            "spouse": [
+                "Astoria Greengrass"
+            ],
+            "child": [
+                "Scorpius Malfoy"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Pansy Parkinson"
+            ],
+            "enemy": [
+                "Harry Potter"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Ginny Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "Harry Potter"
+            ],
+            "child": [
+                "James Sirius Potter",
+                "Lily Luna Potter",
+                "Albus Severus Potter"
+            ],
+            "sibling": [
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ron Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Michael Corner",
+                "Dean Thomas"
+            ],
+            "enemy": [
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Neville Longbottom": {
+            "father": "Frank Longbottom",
+            "mother": "Alice Longbottom",
+            "spouse": [
+                "Hannah Abbott"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Bellatrix Lestrange"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Minerva McGonagall": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Albus Dumbledore": {
+            "father": "Percival Dumbledore",
+            "mother": "Kendra Dumbledore",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "Credence Barebone",
+                "Ariana Dumbledore",
+                "Aberforth Dumbledore"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Gellert Grindelwald",
+                "Lord Voldemort"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Sirius Black": {
+            "father": "Orion Black",
+            "mother": "Walburga Black",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "Regulus Black"
+            ],
+            "relative": [
+                "Alphard Black",
+                "Andromeda Tonks",
+                "Narcissa Malfoy",
+                "Bellatrix Lestrange"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Death Eater"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Arabella Figg": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Lucius Malfoy": {
+            "father": "Abraxas Malfoy",
+            "mother": "DNE",
+            "spouse": [
+                "Narcissa Malfoy"
+            ],
+            "child": [
+                "Draco Malfoy"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Garrick Ollivander": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Narcissa Malfoy": {
+            "father": "Cygnus Black III",
+            "mother": "Druella Rosier",
+            "spouse": [
+                "Lucius Malfoy"
+            ],
+            "child": [
+                "Draco Malfoy"
+            ],
+            "sibling": [
+                "Andromeda Tonks",
+                "Bellatrix Lestrange"
+            ],
+            "relative": [
+                "Sirius Black"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Cornelius Fudge": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Petunia Dursley": {
+            "father": "Mr. Evans",
+            "mother": "Mrs. Evans",
+            "spouse": [
+                "Vernon Dursley"
+            ],
+            "child": [
+                "Dudley Dursley"
+            ],
+            "sibling": [
+                "Lily Potter"
+            ],
+            "relative": [
+                "Harry Potter"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Bill Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "Fleur Delacour"
+            ],
+            "child": [
+                "Louis Weasley",
+                "Dominique Weasley",
+                "Victoire Weasley"
+            ],
+            "sibling": [
+                "Ginny Weasley",
+                "Ron Weasley",
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Percy Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Hedwig": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "Harry Potter"
+        },
+        "George Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "Angelina Johnson"
+            ],
+            "child": [
+                "Roxanne Weasley",
+                "Fred Weasley II"
+            ],
+            "sibling": [
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ginny Weasley",
+                "Ron Weasley",
+                "Fred Weasley",
+                "Charlie Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Gregory Goyle": {
+            "father": "Goyle senior",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Vincent Crabbe": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Harry Potter": {
+            "father": "James Potter",
+            "mother": "Lily Potter",
+            "spouse": [
+                "Ginny Weasley"
+            ],
+            "child": [
+                "James Sirius Potter",
+                "Lily Luna Potter",
+                "Albus Severus Potter"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "Vernon Dursley",
+                "Dudley Dursley",
+                "Ignotus Peverell",
+                "Petunia Dursley"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Draco Malfoy",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Molly Weasley": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "Arthur Weasley"
+            ],
+            "child": [
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ginny Weasley",
+                "Ron Weasley"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Poppy Pomfrey": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Percy Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Bill Weasley",
+                "Ginny Weasley",
+                "Ron Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "Penelope Clearwater"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Angelina Johnson": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "George Weasley"
+            ],
+            "child": [
+                "Roxanne Weasley",
+                "Fred Weasley II"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Charlie Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "George Weasley",
+                "Fred Weasley",
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ginny Weasley",
+                "Ron Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Nearly Headless Nick": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Griphook": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Rolanda Hooch": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Dudley Dursley": {
+            "father": "Vernon Dursley",
+            "mother": "Petunia Dursley",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "James Sirius Potter",
+                "Lily Luna Potter",
+                "Albus Severus Potter",
+                "Harry Potter",
+                "Marge Dursley",
+                "Lily Potter",
+                "James Potter",
+                "Ginny Weasley"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Arthur Weasley": {
+            "father": "Septimus Weasley",
+            "mother": "Cedrella Black",
+            "spouse": [
+                "Molly Weasley"
+            ],
+            "child": [
+                "Ginny Weasley",
+                "Ron Weasley",
+                "George Weasley",
+                "Fred Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Bill Weasley"
+            ],
+            "sibling": [
+                "Bilius Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Augusta Longbottom": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "Frank Longbottom"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Vernon Dursley": {
+            "father": "DNE",
+            "mother": "DNE",
+            "spouse": [
+                "Petunia Dursley"
+            ],
+            "child": [
+                "Dudley Dursley"
+            ],
+            "sibling": [
+                "Marge Dursley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Fred Weasley": {
+            "father": "Arthur Weasley",
+            "mother": "Molly Weasley",
+            "spouse": [
+                "DNE"
+            ],
+            "child": [
+                "DNE"
+            ],
+            "sibling": [
+                "George Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Bill Weasley",
+                "Ginny Weasley",
+                "Ron Weasley"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "DNE"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        }
+    },
+    "Harry_Potter_and_the_Prisoner_of_Azkaban": {
+        "Hermione Granger": {
+            "father": "Mr. Granger",
+            "mother": "Mrs. Granger",
+            "spouse": [
+                "Ron Weasley"
+            ],
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "DNE"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Antonin Dolohov",
+                "Bellatrix Lestrange",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        },
+        "Harry Potter": {
+            "father": "James Potter",
+            "mother": "Lily Potter",
+            "spouse": [
+                "Ginny Weasley"
+            ],
+            "child": [
+                "James Sirius Potter",
+                "Lily Luna Potter",
+                "Albus Severus Potter"
+            ],
+            "sibling": [
+                "DNE"
+            ],
+            "relative": [
+                "Vernon Dursley",
+                "Dudley Dursley",
+                "Ignotus Peverell",
+                "Petunia Dursley"
+            ],
+            "in_relationship": [
+                "DNE"
+            ],
+            "enemy": [
+                "Draco Malfoy",
+                "Lord Voldemort",
+                "death"
+            ],
+            "kill_by": "DNE",
+            "owner": "DNE"
+        }
+    }
+}
