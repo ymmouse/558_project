@@ -27,6 +27,18 @@ class SpiderSpider(scrapy.Spider):
                 'https://harrypotter.fandom.com' + path,
                 callback = self.parse_one
             )
+            
+        next_page = soup.find_all('div', {'class', 'category-page__pagination'})
+        if len(next_page) > 0:
+            for bottom in next_page:
+                url = bottom.a['href']
+                value = bottom.span.text
+
+                if value == 'Next':
+                    yield scrapy.Request(
+                        url,
+                        callback = self.parse
+                    )
 
     def parse_one(self, response):
         soup = BeautifulSoup(response.text, 'lxml')
