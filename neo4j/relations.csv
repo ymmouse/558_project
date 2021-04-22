@@ -1,0 +1,252 @@
+src,relation,dst
+1,daughter,58
+1,father-in-law,24
+1,nephew/godson,6
+1,nephew,175
+1,niece,4
+1,brother-in-law,17
+4,paternal grandfather,8
+4,maternal grandfather,24
+4,maternal uncle,20
+4,maternal uncle,18
+4,maternal uncle,17
+4,maternal first cousin,58
+5,father-in-law,7
+6,paternal great-grandfather,7
+6,maternal grandfather,24
+6,maternal first cousin,58
+6,maternal uncle,17
+6,maternal uncle,20
+7,son,8
+8,father,7
+9,paternal grandfather,7
+9,father,8
+9,father-in-law,24
+9,brother-in-law,20
+9,brother-in-law,17
+9,niece,58
+12,father,24
+12,younger brother,20
+12,younger brother,18
+12,younger brother,17
+12,niece,58
+13,father,24
+13,older brother,18
+13,older brother,17
+13,daughter,58
+14,father,24
+14,younger brother,17
+14,niece,58
+15,husband,24
+15,son,17
+15,granddaughter,58
+17,father,24
+17,niece,58
+18,father,24
+18,younger twin brother,17
+19,father,24
+19,older brother,17
+19,niece,58
+20,father,24
+20,younger brother,17
+20,nephew,6
+20,nephew,175
+20,niece,4
+20,niece,58
+23,possibly,23
+24,son,17
+24,granddaughter,58
+26,possibly,27
+27,possibly,26
+29,possibly,84
+30,possibly,30
+32,possible relative,91
+33,twin sister,125
+34,younger sister,180
+35,possibly,36
+36,possibly,35
+37,possibly,37
+37,possibly,38
+38,possibly,37
+38,possibly,37
+42,possibly,43
+43,possible paternal relative,42
+44,possibly,45
+47,wife,113
+49,possibly,50
+49,possibly,50
+50,possibly,50
+50,possibly,49
+52,possibly,75
+53,Husband,17
+53,Father-in-law,24
+54,possibly,97
+58,paternal grandfather,24
+58,paternal cousin,6
+58,paternal cousin,4
+58,paternal uncle,17
+58,paternal uncle,20
+60,brother,63
+62,possibly,153
+63,brother,60
+69,paternal/maternal great-great-grandfather,221
+69,father/second cousin once removed,220
+69,mother/second cousin once removed,218
+69,maternal uncle/paternal second cousin once removed,228
+71,possibly,113
+75,possible relative,52
+76,possible descendant,86
+80,possibly,119
+81,possibly,81
+82,maternal uncle by marriage,190
+84,possibly,29
+85,possibly,85
+86,possible distant relative,76
+87,fiancée,192
+88,brother,87
+90,granddaughter,89
+91,possible relative,32
+93,possible,92
+94,brother,110
+94,possibly,112
+95,possible relative,46
+96,maternal great-uncle,190
+97,possible relative,54
+98,sister,99
+99,sister,98
+110,sister,94
+110,possibly,112
+112,possibly,94
+112,possibly,110
+113,husband,47
+113,possible relative,71
+119,possibly,80
+121,possibly,156
+123,daughter,124
+124,mother,123
+125,twin sister,33
+131,father,130
+131,possibly,134
+139,brother,141
+141,younger brother,139
+151,possibly,151
+152,possibly,152
+153,possibly,153
+156,possibly,121
+157,daughter,159
+158,daughter,159
+160,possibly,30
+161,descendant,199
+161,descendant,200
+162,brother-in-law,190
+162,brother-in-law,185
+162,paternal aunt,218
+162,paternal uncle by marriage,220
+162,paternal uncle,228
+167,possibly,23
+172,possible relative,171
+173,possibly,173
+174,ancestor,200
+174,distant relative,199
+174,ancestor,161
+175,paternal grandfather,8
+175,maternal grandfather,24
+175,maternal uncle,20
+175,maternal uncle,18
+175,maternal uncle,17
+175,maternal first cousin,58
+184,paternal grandfather,185
+184,maternal aunt,197
+185,father,186
+185,brother-in-law,190
+186,son,185
+187,paternal great-great-grandfather,221
+187,brother-in-law,190
+187,paternal aunt,218
+187,paternal uncle by marriage/second cousin once removed,220
+187,possible cousin,172
+187,possible cousin,171
+187,husband,185
+187,father-in-law,186
+189,paternal grandfather,186
+189,maternal uncle by marriage,190
+189,sister-in-law,197
+190,relative,192
+190,brother-in-law,185
+191,possible son,190
+192,fiancé,87
+194,husband,190
+194,paternal uncle,220
+194,paternal aunt,218
+194,paternal uncle,228
+194,brother-in-law,185
+195,possibly,49
+195,possibly,50
+199,ancestor,161
+200,ancestor,161
+200,relative,199
+201,twin brother,202
+202,twin brother,201
+207,twin sister,208
+207,likely,209
+207,likely,210
+208,twin sister,207
+208,likely,209
+208,likely,210
+209,sister,210
+209,possibly,208
+209,possibly,207
+210,brother,209
+210,likely,208
+210,likely,207
+216,possibly,217
+217,possibly,216
+218,brother,228
+218,paternal aunt,227
+218,husband/second cousin,220
+218,son/second cousin once removed,69
+219,paternal/maternal great-great-grandfather,221
+219,father/second cousin once removed,220
+219,mother/second cousin once removed,218
+219,maternal uncle,228
+219,maternal uncle,225
+220,wife/second cousin,218
+220,son/second cousin once removed,69
+220,brother-in-law/second cousin,228
+221,granddaughter,227
+222,paternal great-grandfather,221
+222,brother,220
+222,sister-in-law/paternal second cousin,218
+222,nephew/paternal second cousin once removed,69
+223,paternal grandfather,221
+223,paternal first cousin,227
+223,nephew,24
+224,paternal grandfather,221
+224,sister,227
+224,possible brother-in-law,7
+224,niece,218
+224,nephew,228
+224,possible nephew,8
+225,sister,218
+225,brother,228
+225,son-in-law,190
+225,son-in-law,185
+225,second cousin/brother-in-law,220
+226,paternal grandfather,221
+226,paternal first cousin,227
+226,son,24
+226,grandson,20
+226,grandson,18
+226,grandson,17
+227,paternal grandfather,221
+227,niece,218
+227,nephew,228
+228,sister,218
+228,brother-in-law/second cousin,220
+228,paternal aunt,227
+229,paternal grandfather,221
+229,paternal first cousin,227
+229,possibly,47
+229,nephew,24
+230,possibly,230
+231,possibly,230
