@@ -1,0 +1,1832 @@
+src,relation,dst
+0,father,277
+0,mother,278
+0,maternal cousin,279
+1,father,280
+1,mother,281
+1,possible relative,282
+1,husband,283
+1,daughter,59
+1,son,284
+1,father-in-law,24
+1,mother-in-law,285
+1,sister-in-law,19
+1,co-brother-in-law,9
+1,nephew/godson,6
+1,nephew,182
+1,niece,4
+1,brother-in-law,286
+1,brother-in-law,17
+1,sister-in-law,287
+1,nephew,288
+1,niece,289
+1,brother-in-law,14
+1,sister-in-law,290
+1,niece,291
+1,niece,292
+1,brother-in-law,293
+1,brother-in-law,294
+1,sister-in-law,295
+1,niece,296
+1,niece,297
+1,nephew,298
+3,daughter,299
+4,paternal ancestor,300
+4,paternal ancestor,301
+4,paternal grandfather,8
+4,paternal grandmother,5
+4,maternal grandfather,24
+4,maternal grandmother,285
+4,father,9
+4,mother,19
+4,brother,302
+4,brother,182
+4,maternal uncle,12
+4,maternal aunt by marriage,295
+4,maternal first cousin,296
+4,maternal first cousin,297
+4,maternal first cousin,298
+4,maternal uncle,20
+4,maternal uncle,14
+4,maternal aunt by marriage,290
+4,maternal first cousin,285
+4,maternal first cousin,292
+4,maternal uncle,18
+4,maternal uncle,17
+4,maternal aunt by marriage,287
+4,maternal first cousin,288
+4,maternal first cousin,289
+4,maternal uncle,13
+4,maternal aunt by marriage,1
+4,maternal first cousin,59
+4,maternal first cousin,284
+4,paternal ancestors,303
+4,House of Black,304
+5,father,305
+5,mother,306
+5,sister,307
+5,husband,6
+5,son,9
+5,daughter-in-law,19
+5,grandson,302
+5,grandson,182
+5,granddaughter,308
+5,brother-in-law,309
+5,nephew,310
+5,niece-in-law,311
+5,great-nieces or nephews,312
+5,father-in-law,7
+5,mother-in-law,313
+5,in-laws,314
+6,paternal ancestor,300
+6,paternal ancestor,301
+6,paternal great-grandfather,7
+6,paternal great-grandmother,313
+6,maternal great-grandfather,315
+6,maternal great-grandmother,316
+6,paternal grandfather,6
+6,paternal grandmother,5
+6,maternal grandfather,24
+6,maternal grandmother,285
+6,father,9
+6,mother,19
+6,brother,182
+6,sister,317
+6,maternal uncle/godfather,283
+6,aunt by marriage/godmother,1
+6,maternal first cousin,59
+6,maternal first cousin,284
+6,maternal uncle,286
+6,maternal uncle,17
+6,aunt by marriage,287
+6,maternal first cousin,288
+6,maternal first cousin,289
+6,maternal uncle,14
+6,aunt by marriage,290
+6,maternal first cousin,291
+6,maternal first cousin,292
+6,maternal uncle,12
+6,aunt by marriage,295
+6,maternal first cousin,296
+6,maternal first cousin,297
+6,maternal first cousin,298
+6,maternal uncle,20
+6,paternal ancestors,303
+6,House of Black,304
+7,paternal ancestor,300
+7,paternal ancestor,301
+7,paternal ancestor,318
+7,paternal ancestor,319
+7,paternal grandmother,320
+7,father,321
+7,possible brother,322
+7,possible sister-in-law,323
+7,wife,313
+7,son,8
+7,daughter-in-law,5
+7,grandson,9
+7,granddaughter-in-law,19
+7,great-grandson,302
+7,great-grandson,182
+7,great-granddaughter,5
+7,Possible nephew,324
+8,paternal ancestor,300
+8,paternal ancestor,301
+8,paternal ancestor,318
+8,paternal ancestor,319
+8,paternal great-grandmother,320
+8,paternal grandfather,321
+8,father,7
+8,mother,313
+8,possible uncle,322
+8,possible aunt by marriage,323
+8,possible cousin,325
+8,distant cousin,250
+8,wife,5
+8,son,9
+8,daughter-in-law,19
+8,grandson,302
+8,grandson,182
+8,granddaughter,5
+8,father-in-law,305
+8,mother-in-law,306
+8,sister-in-law,307
+8,brother-in-law,309
+8,nephew,310
+8,paternal ancestors,303
+8,House of Black,304
+8,House of Gaunt,326
+8,in-laws,327
+9,paternal ancestor,300
+9,paternal ancestor,301
+9,paternal grandfather,7
+9,paternal grandmother,313
+9,maternal grandfather,305
+9,maternal grandmother,306
+9,Charlus Potter †,328
+9,née Black,323
+9,father,8
+9,mother,5
+9,maternal aunt,307
+9,maternal uncle by marriage,309
+9,maternal cousin,310
+9,cousin-in-law,311
+9,first cousins once removed,329
+9,distant cousin,250
+9,wife,19
+9,son,302
+9,son,182
+9,daughter,5
+9,father-in-law,24
+9,mother-in-law,285
+9,brother-in-law,12
+9,sister-in-law,295
+9,brother-in-law,20
+9,brother-in-law,14
+9,sister-in-law,290
+9,brother-in-law,286
+9,brother-in-law,17
+9,sister-in-law,287
+9,brother-in-law,13
+9,sister-in-law,1
+9,niece,296
+9,niece,297
+9,nephew,298
+9,niece,285
+9,niece,292
+9,nephew,288
+9,niece,289
+9,niece,59
+9,nephew,284
+9,Potter family,314
+9,in-laws,330
+9,paternal ancestors,303
+9,distant relatives,304
+10,father,331
+10,mother,332
+11,possible relative,333
+12,paternal grandfather,315
+12,paternal grandmother,316
+12,maternal grandfather,334
+12,maternal grandmother,335
+12,great-aunt,336
+12,great-uncle,337
+12,great-aunt,338
+12,father,24
+12,mother,285
+12,younger brother,20
+12,younger brother,14
+12,sister-in-law,290
+12,younger brother,18
+12,younger brother,17
+12,sister-in-law,287
+12,younger brother,13
+12,sister-in-law,1
+12,younger sister,19
+12,brother-in-law,9
+12,Two paternal uncles,339
+12,Uncle,340
+12,Cousin,341
+12,uncle,342
+12,maternal uncle,343
+12,maternal uncle,344
+12,wife,295
+12,daughter,296
+12,daughter,297
+12,son,298
+12,father-in-law,345
+12,mother-in-law,346
+12,sister-in-law,347
+12,niece,285
+12,niece,292
+12,nephew,288
+12,niece,289
+12,niece,59
+12,nephew,284
+12,nephew,302
+12,nephew,182
+12,niece,5
+12,Weasley family,330
+12,House of Black,304
+13,paternal grandfather,315
+13,paternal grandmother,316
+13,maternal grandfather,334
+13,maternal grandmother,335
+13,father,24
+13,mother,285
+13,older brother,294
+13,older brother,293
+13,older brother,14
+13,older brother,18
+13,older brother,17
+13,younger sister,19
+13,wife,1
+13,daughter,59
+13,son,284
+13,great-aunt,348
+13,maternal uncle,344
+13,maternal uncle,343
+13,uncle,342
+13,Uncle,340
+13,Cousin,341
+13,Paternal uncles,349
+13,brother-in-law,9
+13,nephew,302
+13,nephew,182
+13,niece,308
+13,sister-in-law,295
+13,niece,296
+13,niece,297
+13,nephew,298
+13,sister-in-law,290
+13,niece,291
+13,niece,292
+13,sister-in-law,287
+13,nephew,288
+13,niece,289
+13,father-in-law,280
+13,mother-in-law,281
+13,Weasley family,330
+13,House of Black,304
+14,father,24
+14,mother,285
+14,older brother,294
+14,older brother,293
+14,younger brother,286
+14,younger brother,17
+14,younger brother,283
+14,younger sister,19
+14,wife,290
+14,daughter,291
+14,daughter,292
+14,great-aunt,336
+14,Uncle,340
+14,Cousin,341
+14,uncle,342
+14,maternal uncle,343
+14,maternal uncle,344
+14,paternal grandfather,315
+14,paternal grandmother,350
+14,maternal grandfather,334
+14,maternal grandmother,335
+14,sister-in-law,295
+14,niece,296
+14,niece,297
+14,nephew,298
+14,sister-in-law,287
+14,nephew,288
+14,niece,289
+14,sister-in-law,1
+14,niece,59
+14,nephew,284
+14,brother-in-law,9
+14,nephew,302
+14,nephew,182
+14,niece,308
+14,Weasley family,330
+14,House of Black,304
+15,Possible great-grandmother,351
+15,Father,352
+15,Mother,353
+15,brother or brother-in-law,342
+15,brother,344
+15,brother,343
+15,great-aunt,336
+15,uncle,337
+15,aunt,338
+15,possible aunt,348
+15,Second cousin,354
+15,Nephew,355
+15,husband,24
+15,son,294
+15,son,293
+15,son,14
+15,son,286
+15,son,17
+15,son,283
+15,daughter,356
+15,granddaughter,296
+15,granddaughter,297
+15,grandson,298
+15,granddaughter,291
+15,granddaughter,292
+15,grandson,288
+15,granddaughter,289
+15,granddaughter,59
+15,grandson,284
+15,grandson,302
+15,grandson,182
+15,granddaughter,317
+15,father-in-law,315
+15,mother-in-law,316
+15,Two brothers-in-law,357
+15,son-in-law,9
+15,daughter-in-law,1
+15,daughter-in-law,295
+15,daughter-in-law,287
+15,daughter-in-law,290
+16,possibly,358
+17,paternal grandfather,315
+17,paternal grandmother,350
+17,maternal grandfather,334
+17,maternal grandmother,335
+17,father,24
+17,née Prewett,285
+17,older brother,294
+17,older brother,293
+17,older brother,14
+17,older twin brother,286
+17,younger brother,283
+17,younger sister,19
+17,wife,287
+17,son,288
+17,daughter,289
+17,uncle,344
+17,uncle,343
+17,Paternal uncles,349
+17,uncle,342
+17,Uncle,340
+17,Cousin,341
+17,sister-in-law,295
+17,niece,296
+17,niece,297
+17,nephew,298
+17,sister-in-law,290
+17,niece,291
+17,niece,292
+17,sister-in-law,1
+17,niece,59
+17,nephew,284
+17,brother-in-law,9
+17,nephew,302
+17,nephew,182
+17,niece,5
+17,Weasley family,330
+17,Black family,359
+18,paternal grandfather,315
+18,paternal grandmother,316
+18,father,24
+18,mother,285
+18,older brother,294
+18,older brother,293
+18,older brother,14
+18,younger twin brother,17
+18,younger brother,283
+18,younger sister,19
+18,maternal grandfather,334
+18,maternal grandmother,335
+18,maternal uncle,344
+18,maternal uncle,343
+18,uncle,342
+18,nephew,288
+18,niece,289
+18,sister-in-law,295
+18,brother-in-law,9
+18,sister-in-law,1
+18,sister-in-law,287
+18,Weasley family,330
+18,House of Black,304
+19,father,24
+19,mother,285
+19,older brother,294
+19,older brother,293
+19,older brother,14
+19,older brother,286
+19,older brother,17
+19,older brother,283
+19,husband,9
+19,son,302
+19,son,182
+19,daughter,317
+19,sister-in-law,1
+19,niece,59
+19,nephew,284
+19,sister-in-law,287
+19,nephew,288
+19,niece,289
+19,sister-in-law,295
+19,niece,296
+19,niece,297
+19,nephew,298
+19,sister-in-law,290
+19,niece,291
+19,niece,292
+19,At least two paternal uncles,360
+19,uncle,342
+19,Uncle,340
+19,maternal uncle,343
+19,maternal uncle,344
+19,Cousin,341
+19,great-aunt,336
+19,paternal grandfather,315
+19,paternal grandmother,316
+19,maternal grandfather,334
+19,maternal grandmother,335
+19,Weasley family,330
+19,distant relatives,304
+19,father-in-law,6
+19,mother-in-law,5
+20,paternal grandfather,315
+20,paternal grandmother,316
+20,maternal grandfather,334
+20,maternal grandmother,335
+20,Uncle,340
+20,Cousin,341
+20,uncle,342
+20,maternal uncle,344
+20,maternal uncle,343
+20,Paternal uncles,349
+20,father,24
+20,mother,285
+20,older brother,294
+20,younger brother,14
+20,younger brother,286
+20,younger brother,17
+20,younger brother,283
+20,younger sister,19
+20,sister-in-law,295
+20,brother-in-law,9
+20,sister-in-law,1
+20,sister-in-law,290
+20,sister-in-law,287
+20,niece,296
+20,niece,297
+20,nephew,298
+20,niece,291
+20,niece,292
+20,nephew,6
+20,nephew,182
+20,niece,4
+20,niece,59
+20,nephew,284
+20,nephew,288
+20,niece,289
+20,Black family,359
+21,Grandmother,361
+21,possible relative,362
+21,possible relative,363
+22,father,364
+22,mother,365
+22,First husband,366
+22,Second husband,367
+22,third husband,368
+22,One son,369
+23,possibly,23
+24,father,315
+24,mother,316
+24,2 brothers,370
+24,brother or brother-in-law,342
+24,Brother or brother-in-law,371
+24,maternal grandfather,372
+24,maternal grandmother,373
+24,maternal uncle,374
+24,maternal aunt,375
+24,wife,285
+24,father-in-law,334
+24,mother-in-law,335
+24,son,294
+24,son,293
+24,son,14
+24,son,286
+24,son,17
+24,son,283
+24,daughter,19
+24,possible cousin,376
+24,maternal uncle,377
+24,maternal aunt,378
+24,Male cousin,379
+24,2 female cousins,380
+24,Male cousin,379
+24,Female cousin,381
+24,aunt or aunt-in-law,348
+24,aunt-in-law,336
+24,Nephew,355
+24,brother-in-law,344
+24,brother-in-law,343
+24,daughter-in-law,295
+24,daughter-in-law,290
+24,daughter-in-law,287
+24,daughter-in-law,1
+24,son-in-law,9
+24,granddaughter,296
+24,granddaughter,297
+24,grandson,298
+24,granddaughter,291
+24,granddaughter,292
+24,grandson,288
+24,granddaughter,289
+24,granddaughter,59
+24,grandson,284
+24,grandson,302
+24,grandson,182
+24,granddaughter,5
+24,House of Black,304
+25,Father †,382
+25,mother,383
+25,Stepfather,384
+25,Several half-siblings,385
+26,possibly,27
+27,possibly,26
+28,possibly,386
+29,possibly,387
+29,possibly,87
+31,possibly,31
+32,mother,388
+32,possible relative,389
+33,possible relative,390
+33,possible relative,95
+34,father,391
+34,mother,392
+34,twin sister,131
+35,Father,352
+35,Mother,353
+35,younger sister,187
+36,possibly,37
+37,possibly,36
+38,possibly,393
+38,possibly,38
+38,possibly,39
+39,possibly,393
+39,possibly,38
+39,possibly,38
+40,father,394
+41,possibly,395
+42,father,396
+42,uncle,397
+43,possibly,398
+43,possibly,399
+43,possibly,44
+43,possibly,400
+43,possibly,401
+43,possibly,402
+43,possibly,403
+44,father,398
+44,mother,399
+44,brother,400
+44,brother,401
+44,husband,402
+44,Nieces and nephews,404
+44,possible paternal ancestor,405
+44,possible paternal relative,43
+44,maternal great-grandmother,403
+44,maternal grandfather,406
+44,maternal grandmother,407
+45,possibly,46
+46,possibly,45
+48,father,408
+48,mother,409
+48,wife,117
+48,paternal grandfather,410
+48,paternal grandmother,411
+48,great-uncle,412
+48,great-aunt,413
+48,possible relative,377
+48,possible relative,378
+49,father,414
+49,mother,415
+49,wife,416
+49,son,100
+49,mother-in-law,417
+49,father-in-law,418
+49,in-laws,419
+49,in-laws,304
+49,Lupin family,420
+50,possibly,51
+50,possibly,51
+51,possibly,51
+51,possibly,50
+52,father,421
+53,possibly,78
+53,possibly,422
+53,possibly,423
+54,Father,352
+54,Husband,17
+54,Son,288
+54,Daughter,289
+54,Father-in-law,24
+54,Mother-in-law,285
+54,Brother-in-law,286
+54,Various Weasley in-laws,424
+55,possibly,101
+56,father,425
+56,mother,426
+56,maternal half-brother,427
+56,step-father,428
+56,possible relation,429
+59,paternal grandfather,24
+59,paternal grandmother,285
+59,maternal grandfather,280
+59,maternal grandmother,281
+59,father,283
+59,mother,1
+59,brother,284
+59,uncle by Marriage,9
+59,paternal aunt,19
+59,paternal cousin,6
+59,paternal cousin,182
+59,paternal cousin,4
+59,paternal uncle,286
+59,paternal uncle,17
+59,aunt,287
+59,paternal cousin,288
+59,paternal cousin,289
+59,paternal uncle,14
+59,aunt,290
+59,paternal cousin,291
+59,paternal cousin,292
+59,paternal uncle,12
+59,aunt,295
+59,paternal cousin,296
+59,paternal cousin,297
+59,paternal cousin,298
+59,paternal uncle,20
+59,Weasley family,330
+59,Granger family,430
+59,House of Black,304
+60,father,431
+60,mother,432
+60,brother,433
+60,sister,434
+60,alleged relative,435
+60,aunt,436
+61,father,437
+61,brother,64
+62,possibly,438
+63,possibly,160
+64,father,437
+64,brother,61
+65,Father,352
+65,Mother,353
+67,Father,352
+67,Mother,353
+67,Three ex-wives,439
+67,Seventeen rumoured children,440
+68,father,441
+68,mother,442
+68,possible cousin,443
+70,paternal/maternal great-great-grandfather,228
+70,paternal/maternal great-great-grandmother,444
+70,paternal great-grandfather/maternal great-great uncle,445
+70,paternal great-grandmother,446
+70,maternal great-grandfather/paternal great-great uncle,447
+70,maternal great-grandmother,448
+70,paternal grandfather/maternal first cousin twice removed,449
+70,paternal grandmother,450
+70,maternal grandfather/paternal first cousin twice removed,451
+70,maternal grandmother,452
+70,father/second cousin once removed,227
+70,mother/second cousin once removed,225
+70,brother/third cousin,453
+70,paternal aunt/maternal second cousin once removed,338
+70,paternal uncle by marriage,337
+70,maternal uncle/paternal second cousin once removed,235
+70,maternal uncle/paternal second cousin once removed,454
+70,maternal aunt by marriage,455
+70,maternal first cousin/paternal third cousin,456
+70,maternal first cousin/paternal third cousin,417
+70,maternal first cousin/paternal third cousin,457
+70,maternal first cousin once removed/paternal third cousin once removed,458
+70,maternal first cousin once removed/paternal third cousin once removed,459
+70,maternal first cousin twice removed/paternal third cousin twice removed,100
+70,maternal first cousin once removed/paternal third cousin once removed,196
+70,maternal first cousin twice removed/paternal third cousin twice removed,191
+70,House of Black,304
+71,father,460
+71,mother,461
+73,possibly,462
+73,possibly,463
+73,possibly,117
+74,father,464
+74,mother,465
+75,possibly,466
+77,Mother,353
+77,Father,352
+78,possible relative,423
+78,possible relative,422
+78,possible relative,53
+79,descendant,467
+79,possible descendant,468
+79,possible descendant,90
+79,possible descendant,469
+80,possibly,470
+81,Cousin,341
+81,granddaughter,471
+83,possibly,125
+84,possibly,84
+85,maternal grandfather,454
+85,maternal grandmother,455
+85,father,418
+85,mother,417
+85,maternal aunt,456
+85,maternal uncle by marriage,197
+85,maternal cousin,458
+85,maternal aunt,457
+85,maternal uncle by marriage,472
+85,maternal cousin,196
+85,husband,49
+85,son,100
+85,father-in-law,414
+85,mother-in-law,415
+85,Tonks family,419
+85,maternal family,304
+85,in-laws,420
+86,possibly,473
+87,possibly,29
+87,possibly,387
+88,possibly,88
+90,father,468
+90,possible relative,469
+90,possible relative,467
+90,possible distant relative,79
+91,mother,474
+91,brother,475
+91,sister-in-law,476
+91,fiancée,199
+91,Nephew,355
+92,mother,474
+92,brother,91
+92,wife,477
+92,Child,478
+92,grandson,479
+92,granddaughter-in-law,480
+92,father-in-law,481
+92,mother-in-law,482
+92,sister-in-law,483
+92,great grandson,484
+92,great grandson,485
+92,Scamander family,486
+93,Grandmother,361
+93,Grandfather,487
+93,Grandfather,487
+93,Mother,353
+93,Sister,488
+93,Brother,489
+93,Brother,489
+94,Daughter or daughter in law,490
+94,Granddaughter,491
+94,granddaughter,93
+94,Grandson,492
+95,possible relative,33
+95,possible relative,390
+96,possible,493
+97,possible,96
+98,brother,114
+98,possibly,116
+99,Nine generations of witches and warlocks,494
+99,possible relative,450
+99,possible relative,47
+100,paternal grandfather,414
+100,paternal grandmother,415
+100,maternal grandfather,418
+100,maternal grandmother,417
+100,father,49
+100,mother,459
+100,maternal great-aunt,456
+100,maternal great-uncle,197
+100,maternal great-aunt,457
+100,maternal great-uncle,472
+100,Lupin family,420
+100,maternal family,419
+100,distant relatives,304
+101,possible relative,55
+102,mother,495
+102,father,496
+102,sister,103
+103,father,496
+103,mother,495
+103,sister,102
+104,niece,497
+105,mother,498
+106,mother,499
+106,father,500
+106,wife,501
+106,son,502
+106,daughter,503
+107,Father,352
+107,Uncle,340
+108,possibly,504
+109,possibly,505
+110,father,506
+110,mother,507
+110,possible relative,508
+112,grandfather,509
+112,grandmother,510
+112,aunt,511
+112,uncle,512
+112,aunt by marriage,513
+112,cousins,514
+113,mother,515
+114,sister,98
+114,possibly,116
+116,possibly,98
+116,possibly,114
+117,mother,463
+117,husband,48
+117,mother-in-law,409
+117,father-in-law,408
+117,paternal grandmother-in-law,411
+117,in-laws,516
+117,possible relative,462
+117,possible relative,73
+118,Mother,353
+118,Father,352
+118,aunt,517
+118,cousin,518
+120,mother,519
+121,Father †,382
+121,Mother †,520
+122,father,521
+122,mother,522
+125,possibly,83
+126,father,523
+126,mother,524
+126,ex-husband,525
+126,great-great-grandmother,526
+127,possibly,163
+128,father,527
+129,daughter,130
+130,mother,129
+131,father,391
+131,mother,392
+131,twin sister,34
+131,"husband, alternate reality",283
+131,"son, alternate reality",528
+133,father,529
+133,mother,530
+133,Wife,531
+133,Son,532
+133,Daughter †,533
+133,paternal grandfather,534
+133,ancestor,535
+133,ancestor,536
+134,possibly,537
+134,possibly,538
+134,possibly,539
+135,possibly,540
+136,wife,541
+136,daughter,480
+136,son-in-law,479
+136,grandson,484
+136,grandson,485
+137,father,136
+137,mother,541
+137,husband,479
+137,son,484
+137,son,485
+137,grandfather-in-law,475
+137,grandmother-in-law,542
+137,possibly,140
+138,father,543
+138,mother,544
+138,Two older sisters,545
+139,mother,546
+140,distant relative,542
+140,distant relative,483
+140,distant relative,479
+140,distant relative,547
+140,distant relative,548
+140,distant relatives,486
+142,possibly,549
+142,possibly,550
+142,possibly,551
+143,father,552
+143,mother,553
+144,possibly,554
+145,brother,147
+145,Davies family,555
+146,Grandmother,361
+146,Sister,488
+147,younger brother,145
+147,Davies family,555
+149,father,556
+149,mother,557
+149,grandfather,558
+149,spouse,559
+150,possibly,560
+150,possibly,561
+150,possibly,562
+152,possible ancestor,563
+152,possible ancestor,564
+152,possible relative,565
+152,possible relative,566
+152,Boot family,567
+153,father,568
+153,uncle,569
+153,possible ancestor,570
+154,mother,571
+154,possibly,572
+155,mother,573
+157,mother,574
+158,possibly,158
+159,possibly,159
+160,possibly,160
+161,father,575
+161,possibly,452
+162,possibly,576
+163,possibly,127
+164,Sister,488
+164,husband,577
+164,daughter,166
+165,Wife,531
+165,Sister-in-law,578
+165,daughter,166
+166,Father,352
+166,Mother,353
+166,Maternal aunt,579
+166,Snyde family,580
+167,possibly,31
+168,descendant,206
+168,descendant,581
+168,descendant,582
+168,descendant,583
+168,descendant,584
+168,descendant,207
+168,descendant,585
+168,descendant,586
+168,descendant,587
+168,descendant,250
+168,descendant,458
+169,father,454
+169,mother,455
+169,sister,456
+169,sister,457
+169,husband,588
+169,daughter,459
+169,son-in-law,49
+169,grandson,589
+169,brother-in-law,197
+169,niece,458
+169,brother-in-law,192
+169,nephew,196
+169,paternal aunt,225
+169,paternal uncle by marriage,227
+169,paternal uncle,235
+169,paternal first cousin,590
+169,paternal first cousin,591
+169,paternal grandfather,451
+169,paternal grandmother,452
+169,House of Black,304
+169,in-laws,419
+170,father,592
+170,Mother†,593
+170,Slughorn family,594
+171,mother,595
+171,Six stepfathers  †,596
+172,possibly,597
+174,possibly,23
+175,mother,598
+176,Mother,353
+176,Sister,488
+176,Grandmother,361
+176,Grandfather,487
+177,father,599
+177,mother,600
+177,Brother,489
+178,Father,352
+178,Rosier family,601
+179,possible relative,602
+179,possible father,603
+179,possible aunt,455
+179,possible uncle by marriage,454
+179,possible first cousin,456
+179,possible first cousin,417
+179,possible first cousin,457
+179,possible first cousin,417
+179,possible relative,178
+179,Rosier family,601
+180,possibly,180
+181,father,604
+181,mother,605
+181,daughter,458
+181,paternal grandfather,606
+181,paternal grandmother,607
+181,maternal grandfather,585
+181,maternal uncle,586
+181,ancestor,207
+181,distant relative,206
+181,ancestor,168
+181,ancestor,608
+181,distant cousin,9
+182,paternal ancestor,300
+182,paternal ancestor,301
+182,paternal grandfather,8
+182,paternal grandmother,5
+182,maternal grandfather,24
+182,maternal grandmother,285
+182,father,9
+182,mother,19
+182,brother,302
+182,sister,5
+182,maternal uncle,12
+182,maternal aunt by marriage,295
+182,maternal first cousin,296
+182,maternal first cousin,297
+182,maternal first cousin,298
+182,maternal uncle,20
+182,maternal uncle,14
+182,maternal aunt by marriage,290
+182,maternal first cousin,285
+182,maternal first cousin,292
+182,maternal uncle,18
+182,maternal uncle,17
+182,maternal aunt by marriage,287
+182,maternal first cousin,288
+182,maternal first cousin,289
+182,maternal uncle,13
+182,maternal aunt by marriage,1
+182,maternal first cousin,59
+182,maternal first cousin,284
+182,paternal ancestors,303
+182,House of Black,304
+183,possible relative,609
+184,father,610
+184,mother,611
+184,possibly,612
+185,possibly,613
+186,Father,352
+186,uncle,614
+186,Aunt,615
+187,Father,352
+187,Mother,353
+187,Sister,488
+188,possible father,261
+189,Father,352
+189,Mother,353
+189,possible relation,616
+191,father,196
+191,mother,617
+191,paternal grandfather,192
+191,paternal grandmother,457
+191,maternal aunt,204
+191,first cousin once removed,458
+191,Malfoy family,618
+191,Greengrass family,619
+191,House of Black,304
+191,ancestor,620
+192,paternal ancestor,621
+192,paternal ancestor,622
+192,paternal ancestor,623
+192,paternal ancestor,624
+192,paternal ancestor,625
+192,father,193
+192,wife,457
+192,son,196
+192,daughter-in-law,617
+192,grandson,191
+192,father-in-law,454
+192,mother-in-law,455
+192,sister-in-law,456
+192,brother-in-law,197
+192,sister-in-law,417
+192,brother-in-law,418
+192,niece,458
+192,niece,459
+192,great-nephew,100
+192,Malfoy family,618
+192,in-laws,304
+193,ancestor,621
+193,ancestor,622
+193,ancestor,623
+193,ancestor,625
+193,ancestor,624
+193,son,192
+193,daughter-in-law,457
+193,grandson,196
+193,grandaughter-in-law,626
+193,great-grandson,191
+194,paternal great-great-grandfather,228
+194,paternal great-great-grandmother,444
+194,paternal great-grandfather,447
+194,paternal great-grandmother,448
+194,paternal grandfather,451
+194,paternal grandmother,452
+194,father,454
+194,mother,455
+194,sister,456
+194,brother-in-law,197
+194,sister,417
+194,brother-in-law,418
+194,paternal aunt,225
+194,paternal uncle by marriage/second cousin once removed,227
+194,paternal first cousin/third cousin,590
+194,paternal first cousin/third cousin,591
+194,possible aunt,602
+194,possible uncle,603
+194,possible cousin,179
+194,possible cousin,178
+194,husband,192
+194,son,196
+194,daughter-in-law,617
+194,grandson,191
+194,father-in-law,193
+194,niece,458
+194,niece,459
+195,Father,352
+195,Mother,353
+196,paternal ancestor,621
+196,paternal ancestor,622
+196,paternal ancestor,623
+196,paternal ancestor,625
+196,paternal ancestor,624
+196,paternal grandfather,193
+196,maternal grandfather,454
+196,maternal grandmother,455
+196,father,472
+196,mother,457
+196,maternal aunt,456
+196,maternal uncle by marriage,197
+196,maternal first cousin,458
+196,maternal aunt,417
+196,maternal uncle by marriage,418
+196,maternal first cousin,459
+196,wife,617
+196,son,191
+196,sister-in-law,204
+196,Malfoy family,618
+196,maternal family,304
+196,in-laws,619
+197,ancestor,627
+197,ancestor,628
+197,ancestor,629
+197,relative,199
+197,brother,249
+197,wife,630
+197,stepdaughter,458
+197,sister-in-law,417
+197,brother-in-law,588
+197,sister-in-law,457
+197,brother-in-law,192
+197,niece,416
+197,nephew,196
+197,father-in-law,454
+197,mother-in-law,455
+197,Lestrange family,631
+198,ancestor,627
+198,ancestor,628
+198,ancestor,629
+198,possible son,249
+198,possible son,197
+198,possible daughter-in-law,456
+199,father,632
+199,mother,633
+199,stepmother/first cousin once removed,634
+199,half-brother,635
+199,half-brother,632
+199,fiancé,91
+199,grandfather,632
+199,grandmother,636
+199,Lestrange family,631
+199,Kama family,637
+200,Father,352
+200,Mother,353
+200,uncle,638
+200,Grandmother,361
+201,father,454
+201,mother,455
+201,sister,417
+201,sister,457
+201,daughter,458
+201,husband,197
+201,paternal grandfather,451
+201,paternal grandmother,452
+201,paternal uncle,227
+201,paternal aunt,225
+201,paternal first cousin,590
+201,paternal first cousin,591
+201,paternal uncle,235
+201,brother-in-law,588
+201,niece,416
+201,nephew-in-law,49
+201,great-nephew,589
+201,brother-in-law,192
+201,nephew,196
+201,niece-in-law,617
+201,great-nephew,191
+201,maternal family,601
+201,distant relatives,330
+201,brother-in-law,249
+201,in-laws,631
+201,paternal relatives,304
+202,possibly,50
+202,possibly,51
+203,possible relative,639
+204,sister,617
+204,brother-in-law,196
+204,nephew,191
+204,Unnamed ancestor,640
+205,father,641
+205,mother,642
+206,ancestor,168
+206,ancestor,608
+206,sister,643
+206,brother-in-law,644
+206,niece,582
+206,grand-niece,583
+206,grand-niece,584
+206,adoptive grand-nephew,563
+206,adoptive grand-nephew,564
+206,nephew-in-law,645
+206,Gaunt family,646
+207,ancestor,168
+207,relative,206
+207,relative,643
+207,descendant,585
+207,descendant,586
+207,ancestor,608
+207,descendant,587
+207,descendant,250
+207,descendant,458
+208,twin brother,209
+209,twin brother,208
+210,possible relative,647
+210,possible relative,648
+210,Flint family,649
+211,Father,352
+211,Mother,353
+211,husband,106
+211,mother-in-law,499
+211,father-in-law,500
+211,son,502
+211,daughter,503
+212,possibly,650
+212,possibly,651
+212,possibly,652
+212,possibly,653
+212,Farley family,654
+214,twin sister,215
+214,likely,216
+214,likely,217
+215,twin sister,214
+215,likely,216
+215,likely,217
+216,sister,217
+216,possibly,215
+216,possibly,214
+217,brother,216
+217,likely,215
+217,likely,214
+218,possibly,655
+218,possibly,656
+218,possibly,618
+219,possible relative,657
+220,Mother,353
+220,Father,352
+223,possibly,658
+223,possibly,224
+223,possibly,659
+224,possibly,658
+224,possibly,659
+224,possibly,223
+225,paternal grandfather,447
+225,paternal grandmother,448
+225,father,451
+225,mother,452
+225,brother,235
+225,brother,454
+225,sister-in-law,455
+225,paternal aunt,234
+225,cousin,660
+225,paternal uncle,661
+225,paternal aunt,323
+225,paternal uncle by marriage,322
+225,Male paternal cousin,662
+225,husband/second cousin,227
+225,son/second cousin once removed,70
+225,son/second cousin once removed,453
+225,father-in-law/first cousin once removed,449
+225,mother-in-law,450
+225,sister-in-law/second cousin,338
+225,brother-in-law,337
+225,niece,456
+225,niece,417
+225,niece,457
+226,paternal/maternal great-great-grandfather,228
+226,father/second cousin once removed,227
+226,mother/second cousin once removed,225
+226,brother/third cousin,590
+226,paternal grandfather,449
+226,paternal grandmother,450
+226,maternal grandfather,451
+226,maternal grandmother,452
+226,maternal first cousin,456
+226,maternal first cousin,417
+226,maternal first cousin,457
+226,maternal uncle,235
+226,maternal uncle,232
+226,maternal aunt,455
+226,paternal aunt,663
+226,paternal uncle by marriage,337
+226,House of Black,304
+227,father,449
+227,mother,450
+227,sister,338
+227,wife/second cousin,225
+227,son/second cousin once removed,70
+227,son/second cousin once removed,591
+227,grandfather,445
+227,grandmother,446
+227,father-in-law/first cousin once removed,451
+227,mother-in-law,452
+227,brother-in-law,337
+227,brother-in-law/second cousin,235
+227,brother-in-law/second cousin,454
+227,niece,456
+227,niece,417
+227,niece,457
+227,uncle,664
+227,aunt,665
+227,House of Black,304
+228,possible grandfather,666
+228,possible grandmother,667
+228,possible father,668
+228,possible mother,669
+228,brother,670
+228,sister,671
+228,sister,672
+228,brother-in-law,673
+228,possible aunt,674
+228,possible uncle by marriage,675
+228,possible uncle,676
+228,wife,444
+228,son,445
+228,daughter-in-law,446
+228,son,677
+228,son,447
+228,daughter-in-law,448
+228,daughter,678
+228,son-in-law,656
+228,son,372
+228,daughter-in-law,373
+228,grandson,449
+228,granddaughter,665
+228,grandson,664
+228,grandson,451
+228,granddaughter,234
+228,grandson,661
+228,granddaughter,323
+228,Two grandsons,679
+228,Granddaughter,491
+228,granddaughter,378
+228,granddaughter,316
+228,granddaughter,375
+228,House of Black,304
+229,paternal great-grandfather,228
+229,paternal great-grandmother,444
+229,paternal grandfather,445
+229,paternal grandmother,446
+229,father,449
+229,mother,450
+229,brother,227
+229,sister-in-law/paternal second cousin,225
+229,paternal aunt,665
+229,paternal uncle,664
+229,husband,337
+229,brother-in-law,334
+229,sister-in-law,335
+229,nephew/paternal second cousin once removed,70
+229,nephew/paternal second cousin once removed,453
+229,niece,285
+229,nephew,343
+229,nephew,344
+229,House of Black,304
+229,Prewett family,680
+230,paternal grandfather,228
+230,paternal grandmother,444
+230,father,372
+230,mother,373
+230,sister,378
+230,brother-in-law,377
+230,sister,316
+230,brother-in-law,315
+230,paternal uncle,445
+230,paternal aunt by marriage,446
+230,paternal first cousin,449
+230,paternal first cousin,665
+230,paternal first cousin,664
+230,paternal uncle,677
+230,paternal uncle,447
+230,paternal aunt by marriage,448
+230,paternal first cousin,451
+230,paternal first cousin,234
+230,paternal first cousin,661
+230,paternal first cousin,323
+230,paternal aunt,678
+230,paternal uncle by marriage,656
+230,Male paternal cousins,681
+230,Female paternal cousin,682
+230,husband,374
+230,Son †,683
+230,possible son,376
+230,possible daughter-in-law,684
+230,possible grandson,685
+230,Two daughters †,686
+230,Nephew,355
+230,Niece,687
+230,Nephews,688
+230,possible nephew,342
+230,nephew,24
+230,House of Black,304
+230,Crouch family,689
+231,paternal grandfather,228
+231,paternal grandmother,444
+231,father,447
+231,mother,448
+231,brother,451
+231,sister-in-law,452
+231,sister,234
+231,brother,661
+231,paternal uncle,445
+231,paternal aunt by marriage,446
+231,paternal first cousin,449
+231,paternal first cousin,665
+231,paternal first cousin,664
+231,paternal uncle,677
+231,paternal aunt,678
+231,paternal uncle by marriage,656
+231,Two male first cousins,690
+231,Female first cousin,691
+231,paternal uncle,372
+231,paternal aunt by marriage,373
+231,paternal first cousin,378
+231,paternal first cousin,316
+231,paternal first cousin,375
+231,husband,322
+231,Son,532
+231,possible father-in-law,321
+231,possible brother-in-law,7
+231,possible sister-in-law,313
+231,niece,225
+231,nephew,235
+231,nephew,454
+231,possible nephew,8
+231,House of Black,304
+231,Potter family,314
+232,father,451
+232,mother,452
+232,sister,225
+232,brother,235
+232,wife,455
+232,daughter,456
+232,daughter,417
+232,daughter,457
+232,son-in-law,197
+232,son-in-law,588
+232,granddaughter,416
+232,son-in-law,192
+232,grandson,196
+232,granddaughter,458
+232,second cousin/brother-in-law,227
+232,nephew,590
+232,nephew,591
+232,paternal grandfather,447
+232,paternal grandmother,448
+232,cousin,692
+232,great-grandson,589
+232,great-grandson,191
+232,Black family,359
+232,in-laws,601
+233,paternal grandfather,228
+233,paternal grandmother,444
+233,father,372
+233,mother,373
+233,sister,378
+233,brother-in-law,377
+233,sister,375
+233,brother-in-law,374
+233,paternal uncle,445
+233,paternal aunt by marriage,446
+233,paternal first cousin,449
+233,paternal first cousin,665
+233,paternal first cousin,664
+233,paternal uncle,677
+233,paternal uncle,447
+233,paternal aunt by marriage,448
+233,paternal first cousin,451
+233,paternal first cousin,234
+233,paternal first cousin,661
+233,paternal first cousin,323
+233,paternal aunt,678
+233,paternal uncle by marriage,656
+233,Male paternal cousins,681
+233,Female paternal cousin,682
+233,husband,315
+233,Two older sons,693
+233,possible son,342
+233,son,24
+233,daughter-in-law,285
+233,possible grandson,694
+233,grandson,12
+233,grandson,20
+233,grandson,14
+233,grandson,18
+233,grandson,17
+233,grandson,13
+233,granddaughter,19
+233,Nephew,355
+233,Niece,687
+233,Nephew †,695
+233,possible nephew,376
+233,Two nieces †,696
+234,paternal grandfather,228
+234,paternal grandmother,444
+234,father,447
+234,mother,448
+234,brother,451
+234,sister-in-law,452
+234,brother,661
+234,sister,323
+234,brother-in-law,322
+234,paternal uncle,445
+234,paternal aunt by marriage,446
+234,paternal first cousin,449
+234,paternal first cousin,665
+234,paternal first cousin,664
+234,paternal uncle,677
+234,paternal aunt,678
+234,paternal uncle by marriage,656
+234,paternal first cousins,697
+234,paternal first cousin,698
+234,paternal uncle,372
+234,paternal aunt by marriage,373
+234,paternal first cousin,378
+234,paternal first cousin,316
+234,paternal first cousin,375
+234,niece,225
+234,nephew,235
+234,nephew,454
+234,nephew,325
+234,House of Black,304
+235,paternal grandfather,447
+235,paternal grandmother,448
+235,father,451
+235,mother,452
+235,sister,225
+235,brother-in-law/second cousin,227
+235,brother,454
+235,sister-in-law,455
+235,paternal aunt,234
+235,paternal uncle,661
+235,paternal aunt,323
+235,uncle by marriage,322
+235,paternal cousin,325
+235,nephew,590
+235,nephew,591
+235,niece,456
+235,niece,417
+235,niece,457
+235,House of Black,304
+236,paternal grandfather,228
+236,paternal grandmother,444
+236,father,372
+236,mother,373
+236,sister,316
+236,brother-in-law,315
+236,sister,375
+236,brother-in-law,374
+236,paternal uncle,445
+236,paternal aunt by marriage,446
+236,paternal first cousin,449
+236,paternal first cousin,665
+236,paternal first cousin,664
+236,paternal uncle,677
+236,paternal uncle,447
+236,paternal aunt by marriage,448
+236,paternal first cousin,451
+236,paternal first cousin,234
+236,paternal first cousin,661
+236,paternal first cousin,323
+236,paternal aunt,678
+236,paternal uncle by marriage,656
+236,Male paternal cousins,681
+236,Female paternal cousin,682
+236,husband,377
+236,Son,532
+236,Daughter,699
+236,possibly,410
+236,possibly,412
+236,possibly,408
+236,possibly,48
+236,Two nephews,700
+236,possible nephew,342
+236,nephew,24
+236,Nephew †,695
+236,possible nephew,376
+236,Two nieces †,696
+236,House of Black,304
+236,Longbottom family,516
+237,possibly,237
+238,possibly,237
+240,brother,216
+240,likely,215
+240,likely,214
+241,ancestor,627
+241,ancestor,628
+241,ancestor,629
+241,relative,199
+241,brother,249
+241,wife,630
+241,stepdaughter,458
+241,sister-in-law,417
+241,brother-in-law,588
+241,sister-in-law,457
+241,brother-in-law,192
+241,niece,416
+241,nephew,196
+241,father-in-law,454
+241,mother-in-law,455
+241,Lestrange family,631
+242,paternal/maternal great-great-grandfather,228
+242,father/second cousin once removed,227
+242,mother/second cousin once removed,225
+242,brother/third cousin,590
+242,paternal grandfather,449
+242,paternal grandmother,450
+242,maternal grandfather,451
+242,maternal grandmother,452
+242,maternal first cousin,456
+242,maternal first cousin,417
+242,maternal first cousin,457
+242,maternal uncle,235
+242,maternal uncle,232
+242,maternal aunt,455
+242,paternal aunt,663
+242,paternal uncle by marriage,337
+242,House of Black,304
+243,possibly,701
+248,possibly,702
+249,ancestor,627
+249,ancestor,628
+249,ancestor,629
+249,possible father,703
+249,brother,197
+249,sister-in-law,456
+250,father,604
+250,mother,605
+250,daughter,458
+250,paternal grandfather,606
+250,paternal grandmother,607
+250,maternal grandfather,585
+250,maternal uncle,586
+250,ancestor,207
+250,distant relative,206
+250,ancestor,168
+250,ancestor,608
+250,distant cousin,9
+251,possibly,612
+251,wife,611
+251,son,184
+252,mother,388
+252,possible relative,389
+253,Sister,488
+253,husband,577
+253,daughter,166
+254,Wife,531
+254,Sister-in-law,578
+254,daughter,166
+255,Mother or mother-in-law,704
+255,Husband,705
+255,son,200
+255,brother-in-law,638
+256,Mother or mother-in-law,704
+256,brother,638
+256,Wife,531
+256,son,200
+259,paternal ancestor,621
+259,paternal ancestor,622
+259,paternal ancestor,623
+259,paternal ancestor,624
+259,paternal ancestor,625
+259,father,193
+259,wife,457
+259,son,196
+259,daughter-in-law,617
+259,grandson,191
+259,father-in-law,454
+259,mother-in-law,455
+259,sister-in-law,456
+259,brother-in-law,197
+259,sister-in-law,417
+259,brother-in-law,418
+259,niece,458
+259,niece,459
+259,great-nephew,100
+259,Malfoy family,618
+259,in-laws,304
+261,possible son,261
+262,possible father,261
+263,wife,642
+263,son,205
+266,possible relative,602
+266,possible father,603
+266,possible aunt,455
+266,possible uncle by marriage,454
+266,possible first cousin,456
+266,possible first cousin,417
+266,possible first cousin,457
+266,possible first cousin,417
+266,possible relative,178
+266,Rosier family,601
+267,mother,598
+268,possibly,373
+269,Great-grandfather †,706
+269,possible grandfather,374
+269,possible grandmother,375
+269,father,376
+269,mother,684
+269,Possible aunts †,707
+269,Crouch family,689
+269,House of Black,304
+270,son,161
+270,possibly,708
+271,father,454
+271,mother,455
+271,sister,417
+271,sister,457
+271,daughter,458
+271,husband,197
+271,paternal grandfather,451
+271,paternal grandmother,452
+271,paternal uncle,227
+271,paternal aunt,225
+271,paternal first cousin,590
+271,paternal first cousin,591
+271,paternal uncle,235
+271,brother-in-law,588
+271,niece,416
+271,nephew-in-law,49
+271,great-nephew,589
+271,brother-in-law,192
+271,nephew,196
+271,niece-in-law,617
+271,great-nephew,191
+271,maternal family,601
+271,distant relatives,330
+271,brother-in-law,249
+271,in-laws,631
+271,paternal relatives,304
+272,paternal ancestor,621
+272,paternal ancestor,622
+272,paternal ancestor,623
+272,paternal ancestor,625
+272,paternal ancestor,624
+272,paternal grandfather,193
+272,maternal grandfather,454
+272,maternal grandmother,455
+272,father,472
+272,mother,457
+272,maternal aunt,456
+272,maternal uncle by marriage,197
+272,maternal first cousin,458
+272,maternal aunt,417
+272,maternal uncle by marriage,418
+272,maternal first cousin,459
+272,wife,617
+272,son,191
+272,sister-in-law,204
+272,Malfoy family,618
+272,maternal family,304
+272,in-laws,619
+275,sister,217
+275,possibly,215
+275,possibly,214
+276,possibly,237
