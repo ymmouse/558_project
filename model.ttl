@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix schema: <http://schema.org/> .
+@prefix my_ns: <http://inf558.org/myfakenamespace#> .
+
+my_ns: wand a schema:Property
+my_ns: blood_status a schema:Property
+my_ns: patronus a schema:Property
+my_ns: house a schema:Property
+my_ns: hair_color a schema:Property
+my_ns: eye_color a schema:Property
+my_ns: loyalty a schema:Property
+
+my_ns: wizards a schema:Class:
+    rdfs:subclassOf schema:Person .
+    schema:name xsd:text
+    my_ns:blood_status xsd:text
+    my_ns:hair_color xsd:text
+    my_ns:eye_color xsd:text
+    my_ns:patronus xsd:text
+    my_ns:wand xsd:text
+    schema:hasOccupation xsd:text
+    my_ns:loyalty xsd:text
+    schema:relatedTo xsd:text
+    my_ns: house xsd:text
