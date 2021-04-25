@@ -1,0 +1,14 @@
+10: Likes(P1, P2) & House(P2, H) & (P1 != P2) -> House(P1, H) ^2
+
+10: Hates(P1, P2) & House(P2, H) -> !House(P1, H) ^2
+
+20: Blood(P1,0) & Loyalty(P1,0) -> House(P1,1)
+10: Blood(P1,0.5) & Loyalty(P1,0.5) -> House(P1,2)
+10: Blood(P1,0.5) & Loyalty(P1,0.5) -> House(P1,3)
+20: Blood(P1,1) & Loyalty(P1,1) -> House(P1,4)
+
+Knows(P1, P2) = Knows(P2, P1) .
+
+5: !Knows(P1, P2) ^2
+
+
