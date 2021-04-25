@@ -276,3 +276,438 @@ id,name,blood_status,hair_color,eye_color,patronus,wand,occupation,loyalty,house
 274,Antonin Dolohov,Pure-blood or Half-blood,Dark,None,None,"Unknown length, wood and core",None,"['Death EatersLord Voldemort', 'Lord Voldemort']",Death_Eaters
 275,Amycus Carrow,Pure-blood or Half-blood,None,None,None,"Unknown length, wood and core","['Professor of Dark Arts at Hogwarts (1997 - 1998)', 'Deputy Headmaster (1997 - 1998)']","['Carrow family', 'Death EatersLord Voldemort', 'Lord Voldemort', 'Hogwarts School of Witchcraft and WizardrySlytherin', 'Slytherin']",Death_Eaters
 276,Avery,Pure-blood or Half-blood,None,None,None,None,None,"['Avery family', 'Hogwarts School of Witchcraft and WizardrySlytherin', 'Slytherin', 'Death EatersLord Voldemort', 'Lord Voldemort']",Death_Eaters
+277,Mr Finnigan,None,None,None,None,None,None,None,None
+278,Mrs Finnigan,None,None,None,None,None,None,None,None
+279,Fergus,None,None,None,None,None,None,None,None
+280,Mr Granger,None,None,None,None,None,None,None,None
+281,Mrs Granger,None,None,None,None,None,None,None,None
+282,Hector Dagworth-Granger,None,None,None,None,None,None,None,None
+283,Ron Weasley,None,None,None,None,None,None,None,None
+284,Hugo Granger-Weasley,None,None,None,None,None,None,None,None
+285,Molly Weasley,None,None,None,None,None,None,None,None
+286,Fred Weasley,None,None,None,None,None,None,None,None
+287,Angelina Weasley,None,None,None,None,None,None,None,None
+288,Fred Weasley II,None,None,None,None,None,None,None,None
+289,Roxanne Weasley,None,None,None,None,None,None,None,None
+290,Audrey Weasley,None,None,None,None,None,None,None,None
+291,Molly Weasley II,None,None,None,None,None,None,None,None
+292,Lucy Weasley,None,None,None,None,None,None,None,None
+293,Charlie Weasley,None,None,None,None,None,None,None,None
+294,Bill Weasley,None,None,None,None,None,None,None,None
+295,Fleur Weasley,None,None,None,None,None,None,None,None
+296,Victoire Weasley,None,None,None,None,None,None,None,None
+297,Dominique Weasley,None,None,None,None,None,None,None,None
+298,Louis Weasley,None,None,None,None,None,None,None,None
+299,Nienna Robins,None,None,None,None,None,None,None,None
+300,Ignotus Peverell,None,None,None,None,None,None,None,None
+301,Linfred of Stinchcombe,None,None,None,None,None,None,None,None
+302,James Potter II,None,None,None,None,None,None,None,None
+303,Fleamont family,None,None,None,None,None,None,None,None
+304,House of Black,None,None,None,None,None,None,None,None
+305,Mr Evans,None,None,None,None,None,None,None,None
+306,Mrs Evans,None,None,None,None,None,None,None,None
+307,Petunia Dursley,None,None,None,None,None,None,None,None
+308,Lily L. Potter,None,None,None,None,None,None,None,None
+309,Vernon Dursley,None,None,None,None,None,None,None,None
+310,Dudley Dursley,None,None,None,None,None,None,None,None
+311,Mrs Dursley,None,None,None,None,None,None,None,None
+312,Dursley children,None,None,None,None,None,None,None,None
+313,Euphemia Potter,None,None,None,None,None,None,None,None
+314,Potter family,None,None,None,None,None,None,None,None
+315,Septimus Weasley,None,None,None,None,None,None,None,None
+316,Cedrella Weasley,None,None,None,None,None,None,None,None
+317,Lily Potter II,None,None,None,None,None,None,None,None
+318,Hardwin Potter,None,None,None,None,None,None,None,None
+319,Iolanthe Potter,None,None,None,None,None,None,None,None
+320,Mrs Potter,None,None,None,None,None,None,None,None
+321,Henry Potter,None,None,None,None,None,None,None,None
+322,Charlus Potter,None,None,None,None,None,None,None,None
+323,Dorea Potter,None,None,None,None,None,None,None,None
+324,Possible nephew,None,None,None,None,None,None,None,None
+325,Charlus's son,None,None,None,None,None,None,None,None
+326,House of Gaunt,None,None,None,None,None,None,None,None
+327,Evans family,None,None,None,None,None,None,None,None
+328,Charlus Potter †,None,None,None,None,None,None,None,None
+329,Dudley's children,None,None,None,None,None,None,None,None
+330,Weasley family,None,None,None,None,None,None,None,None
+331,Mr Wood,None,None,None,None,None,None,None,None
+332,Mrs Wood,None,None,None,None,None,None,None,None
+333,Jamie Wolpert,None,None,None,None,None,None,None,None
+334,Mr Prewett,None,None,None,None,None,None,None,None
+335,Mrs Prewett,None,None,None,None,None,None,None,None
+336,Muriel,None,None,None,None,None,None,None,None
+337,Ignatius Prewett,None,None,None,None,None,None,None,None
+338,Lucretia Prewett,None,None,None,None,None,None,None,None
+339,Two paternal uncles,None,None,None,None,None,None,None,None
+340,Uncle,None,None,None,None,None,None,None,None
+341,Cousin,None,None,None,None,None,None,None,None
+342,Bilius,None,None,None,None,None,None,None,None
+343,Fabian Prewett,None,None,None,None,None,None,None,None
+344,Gideon Prewett,None,None,None,None,None,None,None,None
+345,Monsieur Delacour,None,None,None,None,None,None,None,None
+346,Apolline Delacour,None,None,None,None,None,None,None,None
+347,Gabrielle Delacour,None,None,None,None,None,None,None,None
+348,Tessie,None,None,None,None,None,None,None,None
+349,Paternal uncles,None,None,None,None,None,None,None,None
+350,Cedrella Black,None,None,None,None,None,None,None,None
+351,Possible great-grandmother,None,None,None,None,None,None,None,None
+352,Father,None,None,None,None,None,None,None,None
+353,Mother,None,None,None,None,None,None,None,None
+354,Second cousin,None,None,None,None,None,None,None,None
+355,Nephew,None,None,None,None,None,None,None,None
+356,Ginny Potter,None,None,None,None,None,None,None,None
+357,Two brothers-in-law,None,None,None,None,None,None,None,None
+358,Rubens Winikus,None,None,None,None,None,None,None,None
+359,Black family,None,None,None,None,None,None,None,None
+360,At least two paternal uncles,None,None,None,None,None,None,None,None
+361,Grandmother,None,None,None,None,None,None,None,None
+362,Emma Vane,None,None,None,None,None,None,None,None
+363,Mrs Vane,None,None,None,None,None,None,None,None
+364,Mr Warbeck,None,None,None,None,None,None,None,None
+365,Mrs Warbeck,None,None,None,None,None,None,None,None
+366,First husband,None,None,None,None,None,None,None,None
+367,Second husband,None,None,None,None,None,None,None,None
+368,Irving Warble,None,None,None,None,None,None,None,None
+369,One son,None,None,None,None,None,None,None,None
+370,2 brothers,None,None,None,None,None,None,None,None
+371,Brother or brother-in-law,None,None,None,None,None,None,None,None
+372,Arcturus Black II,None,None,None,None,None,None,None,None
+373,Lysandra Black,None,None,None,None,None,None,None,None
+374,Caspar Crouch,None,None,None,None,None,None,None,None
+375,Charis Crouch,None,None,None,None,None,None,None,None
+376,Bartemius Crouch Snr,None,None,None,None,None,None,None,None
+377,Harfang Longbottom,None,None,None,None,None,None,None,None
+378,Callidora Longbottom,None,None,None,None,None,None,None,None
+379,Male cousin,None,None,None,None,None,None,None,None
+380,2 female cousins,None,None,None,None,None,None,None,None
+381,Female cousin,None,None,None,None,None,None,None,None
+382,Father †,None,None,None,None,None,None,None,None
+383,Mrs Thomas,None,None,None,None,None,None,None,None
+384,Stepfather,None,None,None,None,None,None,None,None
+385,Several half-siblings,None,None,None,None,None,None,None,None
+386,Lina Tande,None,None,None,None,None,None,None,None
+387,Google Stump,None,None,None,None,None,None,None,None
+388,Mrs Pettigrew,None,None,None,None,None,None,None,None
+389,Enid Pettigrew,None,None,None,None,None,None,None,None
+390,Glanmore Peakes,None,None,None,None,None,None,None,None
+391,Mr Patil,None,None,None,None,None,None,None,None
+392,Mrs Patil,None,None,None,None,None,None,None,None
+393,M. Mina,None,None,None,None,None,None,None,None
+394,Mr Midgen,None,None,None,None,None,None,None,None
+395,Female escort,None,None,None,None,None,None,None,None
+396,Mr McLaggen,None,None,None,None,None,None,None,None
+397,Tiberius,None,None,None,None,None,None,None,None
+398,Robert McGonagall Snr,None,None,None,None,None,None,None,None
+399,Isobel McGonagall,None,None,None,None,None,None,None,None
+400,Malcolm McGonagall,None,None,None,None,None,None,None,None
+401,Robert McGonagall Jnr,None,None,None,None,None,None,None,None
+402,Elphinstone Urquart,None,None,None,None,None,None,None,None
+403,Minerva,None,None,None,None,None,None,None,None
+404,Nieces and nephews,None,None,None,None,None,None,None,None
+405,William McGonagall,None,None,None,None,None,None,None,None
+406,Mr Ross,None,None,None,None,None,None,None,None
+407,Mrs Ross,None,None,None,None,None,None,None,None
+408,Frank Longbottom,None,None,None,None,None,None,None,None
+409,Alice Longbottom,None,None,None,None,None,None,None,None
+410,Mr Longbottom,None,None,None,None,None,None,None,None
+411,Augusta Longbottom,None,None,None,None,None,None,None,None
+412,Algie Longbottom,None,None,None,None,None,None,None,None
+413,Enid Longbottom,None,None,None,None,None,None,None,None
+414,Lyall Lupin,None,None,None,None,None,None,None,None
+415,Hope Lupin,None,None,None,None,None,None,None,None
+416,Nymphadora Tonks,None,None,None,None,None,None,None,None
+417,Andromeda Tonks,None,None,None,None,None,None,None,None
+418,Edward Tonks,None,None,None,None,None,None,None,None
+419,Tonks family,None,None,None,None,None,None,None,None
+420,Lupin family,None,None,None,None,None,None,None,None
+421,Mr Jordan,None,None,None,None,None,None,None,None
+422,Gwenog Jones,None,None,None,None,None,None,None,None
+423,Hestia Jones,None,None,None,None,None,None,None,None
+424,Various Weasley in-laws,None,None,None,None,None,None,None,None
+425,Mr Hagrid,None,None,None,None,None,None,None,None
+426,Fridwulfa,None,None,None,None,None,None,None,None
+427,Grawp,None,None,None,None,None,None,None,None
+428,Grawp's father,None,None,None,None,None,None,None,None
+429,Jim Hamilton,None,None,None,None,None,None,None,None
+430,Granger family,None,None,None,None,None,None,None,None
+431,Percival Dumbledore,None,None,None,None,None,None,None,None
+432,Kendra Dumbledore,None,None,None,None,None,None,None,None
+433,Aberforth Dumbledore,None,None,None,None,None,None,None,None
+434,Ariana Dumbledore,None,None,None,None,None,None,None,None
+435,Aurelius Dumbledore,None,None,None,None,None,None,None,None
+436,Honoria,None,None,None,None,None,None,None,None
+437,Mr Creevey,None,None,None,None,None,None,None,None
+438,Elfrida Cragg,None,None,None,None,None,None,None,None
+439,Three ex-wives,None,None,None,None,None,None,None,None
+440,Seventeen rumoured children,None,None,None,None,None,None,None,None
+441,Mr Brown,None,None,None,None,None,None,None,None
+442,Mrs Brown,None,None,None,None,None,None,None,None
+443,Kelly Brown,None,None,None,None,None,None,None,None
+444,Ursula Black,None,None,None,None,None,None,None,None
+445,Sirius Black II,None,None,None,None,None,None,None,None
+446,Hesper Black,None,None,None,None,None,None,None,None
+447,Cygnus Black II,None,None,None,None,None,None,None,None
+448,Violetta Black,None,None,None,None,None,None,None,None
+449,Arcturus Black III,None,None,None,None,None,None,None,None
+450,Melania Black,None,None,None,None,None,None,None,None
+451,Pollux Black,None,None,None,None,None,None,None,None
+452,Irma Black,None,None,None,None,None,None,None,None
+453,Regulus Black II,None,None,None,None,None,None,None,None
+454,Cygnus Black III,None,None,None,None,None,None,None,None
+455,Druella Black,None,None,None,None,None,None,None,None
+456,Bellatrix Lestrange,None,None,None,None,None,None,None,None
+457,Narcissa Malfoy,None,None,None,None,None,None,None,None
+458,Delphini,None,None,None,None,None,None,None,None
+459,Nymphadora Lupin,None,None,None,None,None,None,None,None
+460,Mr Bell,None,None,None,None,None,None,None,None
+461,Mrs Bell,None,None,None,None,None,None,None,None
+462,Abbott,None,None,None,None,None,None,None,None
+463,Mrs Abbott,None,None,None,None,None,None,None,None
+464,Mr Kettleburn,None,None,None,None,None,None,None,None
+465,Mrs Kettleburn,None,None,None,None,None,None,None,None
+466,H. Knighton,None,None,None,None,None,None,None,None
+467,Hepzibah Smith,None,None,None,None,None,None,None,None
+468,Mr Smith,None,None,None,None,None,None,None,None
+469,Sally Smith,None,None,None,None,None,None,None,None
+470,Benjy Williams,None,None,None,None,None,None,None,None
+471,Daphne Wenlock,None,None,None,None,None,None,None,None
+472,Lucius Malfoy II,None,None,None,None,None,None,None,None
+473,Yoshihiro Suzuki,None,None,None,None,None,None,None,None
+474,Mrs Scamander,None,None,None,None,None,None,None,None
+475,Newt Scamander,None,None,None,None,None,None,None,None
+476,Tina Scamander,None,None,None,None,None,None,None,None
+477,Porpentina Goldstein,None,None,None,None,None,None,None,None
+478,Child,None,None,None,None,None,None,None,None
+479,Rolf Scamander,None,None,None,None,None,None,None,None
+480,Luna Lovegood,None,None,None,None,None,None,None,None
+481,Mr Goldstein,None,None,None,None,None,None,None,None
+482,Mrs Goldstein,None,None,None,None,None,None,None,None
+483,Queenie Goldstein,None,None,None,None,None,None,None,None
+484,Lorcan,None,None,None,None,None,None,None,None
+485,Lysander,None,None,None,None,None,None,None,None
+486,Scamander family,None,None,None,None,None,None,None,None
+487,Grandfather,None,None,None,None,None,None,None,None
+488,Sister,None,None,None,None,None,None,None,None
+489,Brother,None,None,None,None,None,None,None,None
+490,Daughter or daughter in law,None,None,None,None,None,None,None,None
+491,Granddaughter,None,None,None,None,None,None,None,None
+492,Grandson,None,None,None,None,None,None,None,None
+493,Bhavana Patel,None,None,None,None,None,None,None,None
+494,Nine generations of witches and warlocks,None,None,None,None,None,None,None,None
+495,Mrs Haywood,None,None,None,None,None,None,None,None
+496,Mr Haywood,None,None,None,None,None,None,None,None
+497,Mathilda Grimblehawk,None,None,None,None,None,None,None,None
+498,Mrs Finch-Fletchley,None,None,None,None,None,None,None,None
+499,Lucretia Fawley,None,None,None,None,None,None,None,None
+500,Marshall Fawley,None,None,None,None,None,None,None,None
+501,Penelope Fawley,None,None,None,None,None,None,None,None
+502,Addison Fawley,None,None,None,None,None,None,None,None
+503,Melody Fawley,None,None,None,None,None,None,None,None
+504,Kevin Entwhistle,None,None,None,None,None,None,None,None
+505,Elora Dunn,None,None,None,None,None,None,None,None
+506,Amos Diggory,None,None,None,None,None,None,None,None
+507,Mrs Diggory,None,None,None,None,None,None,None,None
+508,Eldritch Diggory,None,None,None,None,None,None,None,None
+509,Mr Bones,None,None,None,None,None,None,None,None
+510,Mrs Bones,None,None,None,None,None,None,None,None
+511,Amelia Bones,None,None,None,None,None,None,None,None
+512,Edgar Bones,None,None,None,None,None,None,None,None
+513,Edgar Bones’ wife,None,None,None,None,None,None,None,None
+514,Bones children,None,None,None,None,None,None,None,None
+515,Mrs Bagby,None,None,None,None,None,None,None,None
+516,Longbottom family,None,None,None,None,None,None,None,None
+517,Iris,None,None,None,None,None,None,None,None
+518,Marigold,None,None,None,None,None,None,None,None
+519,Mrs Hitchin,None,None,None,None,None,None,None,None
+520,Mother †,None,None,None,None,None,None,None,None
+521,Mr Warren,None,None,None,None,None,None,None,None
+522,Mrs Warren,None,None,None,None,None,None,None,None
+523,Mr Trelawney,None,None,None,None,None,None,None,None
+524,Mrs Trelawney,None,None,None,None,None,None,None,None
+525,Higglebottom,None,None,None,None,None,None,None,None
+526,Cassandra Trelawney,None,None,None,None,None,None,None,None
+527,Mr Reynolds,None,None,None,None,None,None,None,None
+528,Panju Weasley,None,None,None,None,None,None,None,None
+529,Gervaise Ollivander,None,None,None,None,None,None,None,None
+530,Mrs Ollivander,None,None,None,None,None,None,None,None
+531,Wife,None,None,None,None,None,None,None,None
+532,Son,None,None,None,None,None,None,None,None
+533,Daughter †,None,None,None,None,None,None,None,None
+534,Gerbold Ollivander,None,None,None,None,None,None,None,None
+535,Ollivander,None,None,None,None,None,None,None,None
+536,Geraint Ollivander,None,None,None,None,None,None,None,None
+537,Mrs Montgomery,None,None,None,None,None,None,None,None
+538,Montgomery sisters,None,None,None,None,None,None,None,None
+539,Montgomery,None,None,None,None,None,None,None,None
+540,Morag MacDougal,None,None,None,None,None,None,None,None
+541,Pandora Lovegood,None,None,None,None,None,None,None,None
+542,Porpentina Scamander,None,None,None,None,None,None,None,None
+543,Mr Lockhart,None,None,None,None,None,None,None,None
+544,Mrs Lockhart,None,None,None,None,None,None,None,None
+545,Two older sisters,None,None,None,None,None,None,None,None
+546,Mrs Hesleden,None,None,None,None,None,None,None,None
+547,Lorcan Scamander,None,None,None,None,None,None,None,None
+548,Lysander Scamander,None,None,None,None,None,None,None,None
+549,Benjy Fenwick,None,None,None,None,None,None,None,None
+550,Mervyn Fenwick,None,None,None,None,None,None,None,None
+551,Robbie Fenwick,None,None,None,None,None,None,None,None
+552,Mr Edgecombe,None,None,None,None,None,None,None,None
+553,Madam Edgecombe,None,None,None,None,None,None,None,None
+554,John Dawlish,None,None,None,None,None,None,None,None
+555,Davies family,None,None,None,None,None,None,None,None
+556,Mr Chang,None,None,None,None,None,None,None,None
+557,Mrs Chang,None,None,None,None,None,None,None,None
+558,Chang,None,None,None,None,None,None,None,None
+559,Muggle,None,None,None,None,None,None,None,None
+560,Buckley Cooper,None,None,None,None,None,None,None,None
+561,Mr Cooper,None,None,None,None,None,None,None,None
+562,Cooper children,None,None,None,None,None,None,None,None
+563,Chadwick Boot,None,None,None,None,None,None,None,None
+564,Webster Boot,None,None,None,None,None,None,None,None
+565,D. L. Boot,None,None,None,None,None,None,None,None
+566,Albert Boot,None,None,None,None,None,None,None,None
+567,Boot family,None,None,None,None,None,None,None,None
+568,Mr Belby,None,None,None,None,None,None,None,None
+569,Damocles Belby,None,None,None,None,None,None,None,None
+570,Flavius Belby,None,None,None,None,None,None,None,None
+571,Mrs Birch,None,None,None,None,None,None,None,None
+572,Brevis Birch,None,None,None,None,None,None,None,None
+573,Mrs Alton,None,None,None,None,None,None,None,None
+574,Mrs Aldermaston,None,None,None,None,None,None,None,None
+575,Crabbe,None,None,None,None,None,None,None,None
+576,Jocunda Sykes,None,None,None,None,None,None,None,None
+577,Mr Snyde,None,None,None,None,None,None,None,None
+578,Sister-in-law,None,None,None,None,None,None,None,None
+579,Maternal aunt,None,None,None,None,None,None,None,None
+580,Snyde family,None,None,None,None,None,None,None,None
+581,Rionach Gaunt,None,None,None,None,None,None,None,None
+582,Isolt Sayre,None,None,None,None,None,None,None,None
+583,Rionach Steward,None,None,None,None,None,None,None,None
+584,Martha Steward II,None,None,None,None,None,None,None,None
+585,Marvolo Gaunt,None,None,None,None,None,None,None,None
+586,Morfin Gaunt,None,None,None,None,None,None,None,None
+587,Merope Gaunt,None,None,None,None,None,None,None,None
+588,Ted Tonks,None,None,None,None,None,None,None,None
+589,Teddy Lupin,None,None,None,None,None,None,None,None
+590,Sirius Black,None,None,None,None,None,None,None,None
+591,Regulus Black,None,None,None,None,None,None,None,None
+592,Mr Slughorn,None,None,None,None,None,None,None,None
+593,Mother†,None,None,None,None,None,None,None,None
+594,Slughorn family,None,None,None,None,None,None,None,None
+595,Mrs Zabini,None,None,None,None,None,None,None,None
+596,Six stepfathers  †,None,None,None,None,None,None,None,None
+597,Heliotrope Wilkins,None,None,None,None,None,None,None,None
+598,Tobias Snape,None,None,None,None,None,None,None,None
+599,Orford Umbridge,None,None,None,None,None,None,None,None
+600,Ellen Cracknell,None,None,None,None,None,None,None,None
+601,Rosier family,None,None,None,None,None,None,None,None
+602,Vinda Rosier,None,None,None,None,None,None,None,None
+603,Rosier,None,None,None,None,None,None,None,None
+604,Tom Riddle Snr,None,None,None,None,None,None,None,None
+605,Merope Riddle,None,None,None,None,None,None,None,None
+606,Thomas Riddle,None,None,None,None,None,None,None,None
+607,Mary Riddle,None,None,None,None,None,None,None,None
+608,Cadmus Peverell,None,None,None,None,None,None,None,None
+609,Perseus Parkinson,None,None,None,None,None,None,None,None
+610,Mr Nott,None,None,None,None,None,None,None,None
+611,Mrs Nott,None,None,None,None,None,None,None,None
+612,Cantankerus Nott,None,None,None,None,None,None,None,None
+613,Evangeline Orpington,None,None,None,None,None,None,None,None
+614,Nigel,None,None,None,None,None,None,None,None
+615,Aunt,None,None,None,None,None,None,None,None
+616,Maud Montague,None,None,None,None,None,None,None,None
+617,Astoria Malfoy,None,None,None,None,None,None,None,None
+618,Malfoy family,None,None,None,None,None,None,None,None
+619,Greengrass family,None,None,None,None,None,None,None,None
+620,Astoria Malfoy's ancestor,None,None,None,None,None,None,None,None
+621,Armand Malfoy,None,None,None,None,None,None,None,None
+622,Nicholas Malfoy,None,None,None,None,None,None,None,None
+623,Lucius Malfoy I,None,None,None,None,None,None,None,None
+624,Septimus Malfoy,None,None,None,None,None,None,None,None
+625,Brutus Malfoy,None,None,None,None,None,None,None,None
+626,Astoria Greengrass,None,None,None,None,None,None,None,None
+627,Radolphus Lestrange,None,None,None,None,None,None,None,None
+628,F. Lestrange,None,None,None,None,None,None,None,None
+629,R. Lestrange,None,None,None,None,None,None,None,None
+630,Bellatrix Black,None,None,None,None,None,None,None,None
+631,Lestrange family,None,None,None,None,None,None,None,None
+632,Corvus Lestrange,None,None,None,None,None,None,None,None
+633,Laurena Kama,None,None,None,None,None,None,None,None
+634,Clarisse Tremblay,None,None,None,None,None,None,None,None
+635,Yusuf Kama,None,None,None,None,None,None,None,None
+636,Eglantine Lestrange,None,None,None,None,None,None,None,None
+637,Kama family,None,None,None,None,None,None,None,None
+638,Cecil Lee,None,None,None,None,None,None,None,None
+639,Bertie Higgs,None,None,None,None,None,None,None,None
+640,Unnamed ancestor,None,None,None,None,None,None,None,None
+641,Goyle,None,None,None,None,None,None,None,None
+642,Mrs Goyle,None,None,None,None,None,None,None,None
+643,Rionach Sayre,None,None,None,None,None,None,None,None
+644,William Sayre,None,None,None,None,None,None,None,None
+645,James Steward,None,None,None,None,None,None,None,None
+646,Gaunt family,None,None,None,None,None,None,None,None
+647,Ursula Flint,None,None,None,None,None,None,None,None
+648,Josephina Flint,None,None,None,None,None,None,None,None
+649,Flint family,None,None,None,None,None,None,None,None
+650,Bella Farley,None,None,None,None,None,None,None,None
+651,Charlie Farley,None,None,None,None,None,None,None,None
+652,Jake Farley,None,None,None,None,None,None,None,None
+653,Madge Farley,None,None,None,None,None,None,None,None
+654,Farley family,None,None,None,None,None,None,None,None
+655,Caractacus Burke,None,None,None,None,None,None,None,None
+656,Herbert Burke,None,None,None,None,None,None,None,None
+657,Violetta Bulstrode,None,None,None,None,None,None,None,None
+658,Bletchley,None,None,None,None,None,None,None,None
+659,Madame Bletchley,None,None,None,None,None,None,None,None
+660,Araminta Meliflua,None,None,None,None,None,None,None,None
+661,Marius Black,None,None,None,None,None,None,None,None
+662,Male paternal cousin,None,None,None,None,None,None,None,None
+663,Lucretia Black,None,None,None,None,None,None,None,None
+664,Regulus Black I,None,None,None,None,None,None,None,None
+665,Lycoris Black,None,None,None,None,None,None,None,None
+666,Licorus Black,None,None,None,None,None,None,None,None
+667,Magenta Black,None,None,None,None,None,None,None,None
+668,Cygnus Black I,None,None,None,None,None,None,None,None
+669,Ella Black,None,None,None,None,None,None,None,None
+670,Sirius Black I,None,None,None,None,None,None,None,None
+671,Elladora Black,None,None,None,None,None,None,None,None
+672,Iola Hitchens,None,None,None,None,None,None,None,None
+673,Bob Hitchens,None,None,None,None,None,None,None,None
+674,Misapinoa Blishwick,None,None,None,None,None,None,None,None
+675,Jimbo Blishwick,None,None,None,None,None,None,None,None
+676,Arcturus Black I,None,None,None,None,None,None,None,None
+677,Phineas Black,None,None,None,None,None,None,None,None
+678,Belvina Burke,None,None,None,None,None,None,None,None
+679,Two grandsons,None,None,None,None,None,None,None,None
+680,Prewett family,None,None,None,None,None,None,None,None
+681,Male paternal cousins,None,None,None,None,None,None,None,None
+682,Female paternal cousin,None,None,None,None,None,None,None,None
+683,Son †,None,None,None,None,None,None,None,None
+684,Mrs Crouch,None,None,None,None,None,None,None,None
+685,Bartemius Crouch Jr,None,None,None,None,None,None,None,None
+686,Two daughters †,None,None,None,None,None,None,None,None
+687,Niece,None,None,None,None,None,None,None,None
+688,Nephews,None,None,None,None,None,None,None,None
+689,Crouch family,None,None,None,None,None,None,None,None
+690,Two male first cousins,None,None,None,None,None,None,None,None
+691,Female first cousin,None,None,None,None,None,None,None,None
+692,Araminta Meliflua Black,None,None,None,None,None,None,None,None
+693,Two older sons,None,None,None,None,None,None,None,None
+694,Weasley children's cousin,None,None,None,None,None,None,None,None
+695,Nephew †,None,None,None,None,None,None,None,None
+696,Two nieces †,None,None,None,None,None,None,None,None
+697,Herbert's sons,None,None,None,None,None,None,None,None
+698,Herbert's daughter,None,None,None,None,None,None,None,None
+699,Daughter,None,None,None,None,None,None,None,None
+700,Two nephews,None,None,None,None,None,None,None,None
+701,Damocles Rowle,None,None,None,None,None,None,None,None
+702,Argo Pyrites,None,None,None,None,None,None,None,None
+703,Lestrange Snr,None,None,None,None,None,None,None,None
+704,Mother or mother-in-law,None,None,None,None,None,None,None,None
+705,Husband,None,None,None,None,None,None,None,None
+706,Great-grandfather †,None,None,None,None,None,None,None,None
+707,Possible aunts †,None,None,None,None,None,None,None,None
+708,Irma Crabbe,None,None,None,None,None,None,None,None
+709,death,None,None,None,None,None,None,None,None
+710,Death Eater,None,None,None,None,None,None,None,None
+711,Morgan le Fay,None,None,None,None,None,None,None,None
