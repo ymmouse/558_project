@@ -1,17 +1,20 @@
 predicates:
-  Relation/2: closed
-  Blood/2: closed
-  Loyalty/2: closed
-  House/2: open
-
+	Hates/2: closed
+	Likes/2: closed
+	Blood/2: closed
+	Loyalty/2: closed
+	House/2: open
+	
 observations:
-  Relation : ../data/relation_obs.txt
-  Blood : ../data/blood_obs.txt
-  Loyalty : ../data/loyalty_obs.txt
+	Hates : ../data/hate_obs.txt
+	Likes : ../data/like_obs.txt
+	Blood : ../data/blood_obs.txt
+	Loyalty : ../data/loyalty_obs.txt
+	House: ../data/house_obs.txt
 
 targets:
-  House : ../data/house_target.txt
+	House : ../data/house_target.txt
 
 truth:
-  House : ../data/house_truth.txt
+	House : ../data/house_truth.txt
 
