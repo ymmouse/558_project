@@ -1,0 +1,4 @@
+1	Gryffindor
+2	Slytherin
+3	Ravenclaw
+4	Hufflepuff

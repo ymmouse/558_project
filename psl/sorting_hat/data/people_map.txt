@@ -1,0 +1,61 @@
+0	Regulus Arcturus Black
+1	Sirius Black III
+2	Lavender Brown
+3	Cho Chang
+4	Mr Crabbe
+5	Vincent Crabbe
+6	Bartemius Crouch Senior
+7	Bartemius Crouch Junior
+8	Fleur Isabelle Weasley (née Delacour)
+9	Cedric Diggory
+10	Aberforth Dumbledore
+11	Albus Percival Wulfric Brian Dumbledore
+12	Dudley Dursley
+13	Petunia Dursley (née Evans)
+14	Vernon Dursley
+15	Argus Filch
+16	Seamus Finnigan
+17	Nicolas Flamel
+18	Cornelius Oswald Fudge
+19	Mr Goyle
+20	Gregory Goyle
+21	Hermione Jean Granger
+22	Rubeus Hagrid
+23	Igor Karkaroff
+24	Viktor Krum
+25	Bellatrix Lestrange (née Black)
+26	Alice Longbottom
+27	Frank C. J. Longbottom
+28	Neville Longbottom
+29	Luna Scamander (née Lovegood)
+30	Xenophilius Lovegood
+31	Remus John Lupin
+32	Draco Lucius Malfoy
+33	Lucius Malfoy
+34	Narcissa Malfoy (née Black)
+35	Olympe Maxime
+36	Minerva McGonagall
+37	Alastor Moody
+38	Peter Pettigrew
+39	Harry James Potter
+40	James Potter I
+41	Lily J. Potter (née Evans)
+42	Quirinus Quirrell
+43	Tom Riddle
+44	Mary Riddle
+45	Tom Marvolo Riddle
+46	Rita Skeeter
+47	Severus Snape
+48	Nymphadora Lupin (née Tonks)
+49	Dolores Jane Umbridge
+50	Arthur Weasley
+51	William Arthur Weasley
+52	Charles Weasley
+53	Fred Weasley I
+54	George Weasley
+55	Ginevra Molly Potter (née Weasley)
+56	Molly Weasley (née Prewett)
+57	Percy Ignatius Weasley
+58	Ronald Bilius Weasley
+62	Myrtle Elizabeth Warren
+64	Grawp
